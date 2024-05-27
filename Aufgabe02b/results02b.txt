@@ -1,0 +1,72 @@
+server-1  | 2024-05-27 14:51:28,693 server INFO: Incomming connection from ('172.22.0.3', 57530)
+client-3  | 2024-05-27 14:51:28,694 silver-adder INFO: Received INIT commat at [2,0,0,0,]. This client is assinged number 1.
+server-1  | 2024-05-27 14:51:28,861 server INFO: Incomming connection from ('172.22.0.4', 40528)
+client-2  | 2024-05-27 14:51:28,862 bipedal-cuscus INFO: Received INIT commat at [3,0,0,0,]. This client is assinged number 2.
+server-1  | 2024-05-27 14:51:29,064 server INFO: Incomming connection from ('172.22.0.5', 44162)
+client-1  | 2024-05-27 14:51:29,064 clever-guillemot INFO: Received INIT commat at [4,0,0,0,]. This client is assinged number 3.
+server-1  | 2024-05-27 14:51:29,065 server INFO: Stop accepting new connections
+server-1  | 2024-05-27 14:51:33,502 server INFO: Sending START (3 clients)
+client-3  | 2024-05-27 14:51:33,503 silver-adder INFO: Received START command at [5,0,0,0,].
+client-3  | 2024-05-27 14:51:33,503 silver-adder INFO: Waiting 8.968744258969487s to send result 58.
+client-2  | 2024-05-27 14:51:33,503 bipedal-cuscus INFO: Received START command at [5,0,0,0,].
+client-2  | 2024-05-27 14:51:33,503 bipedal-cuscus INFO: Waiting 3.341216632728572s to send result 25.
+client-1  | 2024-05-27 14:51:33,503 clever-guillemot INFO: Received START command at [5,0,0,0,].
+client-1  | 2024-05-27 14:51:33,503 clever-guillemot INFO: Waiting 2.5418896116958303s to send result 50.
+client-1  | 2024-05-27 14:51:36,045 clever-guillemot INFO: Sending result 50
+server-1  | 2024-05-27 14:51:36,046 server INFO: Received WURF from clever-guillemot with value 50 at [5,0,0,3,]
+server-1  | 2024-05-27 14:51:36,046 server INFO: Accepted WURF from clever-guillemot because it depends on last start time [5, 0, 0, 0]
+client-2  | 2024-05-27 14:51:36,846 bipedal-cuscus INFO: Sending result 25
+server-1  | 2024-05-27 14:51:36,847 server INFO: Received WURF from bipedal-cuscus with value 25 at [5,0,3,0,]
+server-1  | 2024-05-27 14:51:36,848 server INFO: Reject WURF from bipedal-cuscus because it doe not depend on last start time [6, 0, 0, 3]
+server-1  | 2024-05-27 14:51:38,508 server INFO: Sending STOP
+server-1  | 2024-05-27 14:51:38,509 server INFO: Client 'clever-guillemot' won with the value 50
+server-1  | 2024-05-27 14:51:39,510 server INFO: Sending START (3 clients)
+client-1  | 2024-05-27 14:51:39,511 clever-guillemot INFO: Received START command at [9,0,0,3,].
+client-1  | 2024-05-27 14:51:39,511 clever-guillemot INFO: Waiting 3.5008643150779175s to send result 5.
+client-2  | 2024-05-27 14:51:39,511 bipedal-cuscus INFO: Received START command at [9,0,0,3,].
+client-2  | 2024-05-27 14:51:39,511 bipedal-cuscus INFO: Waiting 9.884800884273782s to send result 46.
+server-1  | 2024-05-27 14:51:42,504 server INFO: Received WURF from silver-adder with value 58 at [5,3,0,0,]
+client-3  | 2024-05-27 14:51:42,481 silver-adder INFO: Sending result 58
+server-1  | 2024-05-27 14:51:42,505 server INFO: Reject WURF from silver-adder because it doe not depend on last start time [9, 0, 0, 3]
+server-1  | 2024-05-27 14:51:43,017 server INFO: Received WURF from clever-guillemot with value 5 at [9,0,0,5,]
+server-1  | 2024-05-27 14:51:43,017 server INFO: Accepted WURF from clever-guillemot because it depends on last start time [9, 0, 0, 3]
+client-1  | 2024-05-27 14:51:43,016 clever-guillemot INFO: Sending result 5
+server-1  | 2024-05-27 14:51:44,515 server INFO: Sending STOP
+server-1  | 2024-05-27 14:51:44,516 server INFO: Client 'clever-guillemot' won with the value 5
+server-1  | 2024-05-27 14:51:45,517 server INFO: Sending START (3 clients)
+client-3  | 2024-05-27 14:51:45,518 silver-adder INFO: Received START command at [13,0,0,5,].
+client-3  | 2024-05-27 14:51:45,518 silver-adder INFO: Waiting 9.778269071812305s to send result 4.
+client-1  | 2024-05-27 14:51:45,518 clever-guillemot INFO: Received START command at [13,0,0,5,].
+client-1  | 2024-05-27 14:51:45,518 clever-guillemot INFO: Waiting 7.116420599919271s to send result 28.
+client-2  | 2024-05-27 14:51:49,400 bipedal-cuscus INFO: Sending result 46
+server-1  | 2024-05-27 14:51:49,402 server INFO: Received WURF from bipedal-cuscus with value 46 at [9,0,5,3,]
+server-1  | 2024-05-27 14:51:49,403 server INFO: Reject WURF from bipedal-cuscus because it doe not depend on last start time [13, 0, 0, 5]
+server-1  | 2024-05-27 14:51:50,520 server INFO: Sending STOP
+server-1  | 2024-05-27 14:51:50,521 server INFO: No votes received
+server-1  | 2024-05-27 14:51:51,523 server INFO: Sending START (3 clients)
+client-2  | 2024-05-27 14:51:51,524 bipedal-cuscus INFO: Received START command at [16,0,0,5,].
+client-2  | 2024-05-27 14:51:51,524 bipedal-cuscus INFO: Waiting 7.054887473591377s to send result 58.
+client-1  | 2024-05-27 14:51:52,638 clever-guillemot INFO: Sending result 28
+server-1  | 2024-05-27 14:51:52,640 server INFO: Received WURF from clever-guillemot with value 28 at [13,0,0,7,]
+server-1  | 2024-05-27 14:51:52,642 server INFO: Reject WURF from clever-guillemot because it doe not depend on last start time [16, 0, 0, 5]
+client-3  | 2024-05-27 14:51:55,307 silver-adder INFO: Sending result 4
+server-1  | 2024-05-27 14:51:55,308 server INFO: Received WURF from silver-adder with value 4 at [13,5,0,5,]
+server-1  | 2024-05-27 14:51:55,309 server INFO: Reject WURF from silver-adder because it doe not depend on last start time [16, 0, 0, 5]
+server-1  | 2024-05-27 14:51:56,529 server INFO: Sending STOP
+server-1  | 2024-05-27 14:51:56,530 server INFO: No votes received
+client-3  | 2024-05-27 14:51:57,533 silver-adder INFO: Received START command at [19,0,0,5,].
+server-1  | 2024-05-27 14:51:57,532 server INFO: Sending START (3 clients)
+client-1  | 2024-05-27 14:51:57,533 clever-guillemot INFO: Received START command at [19,0,0,5,].
+client-3  | 2024-05-27 14:51:57,534 silver-adder INFO: Waiting 6.856936700059163s to send result 10.
+client-1  | 2024-05-27 14:51:57,534 clever-guillemot INFO: Waiting 0.9176115417633002s to send result 44.
+client-1  | 2024-05-27 14:51:58,454 clever-guillemot INFO: Sending result 44
+server-1  | 2024-05-27 14:51:58,455 server INFO: Received WURF from clever-guillemot with value 44 at [19,0,0,9,]
+server-1  | 2024-05-27 14:51:58,455 server INFO: Accepted WURF from clever-guillemot because it depends on last start time [19, 0, 0, 5]
+client-2  | 2024-05-27 14:51:58,588 bipedal-cuscus INFO: Sending result 58
+server-1  | 2024-05-27 14:51:58,589 server INFO: Received WURF from bipedal-cuscus with value 58 at [16,0,7,5,]
+server-1  | 2024-05-27 14:51:58,589 server INFO: Reject WURF from bipedal-cuscus because it doe not depend on last start time [20, 0, 0, 9]
+server-1  | 2024-05-27 14:52:02,539 server INFO: Sending STOP
+server-1  | 2024-05-27 14:52:02,539 server INFO: Client 'clever-guillemot' won with the value 44
+client-3  | 2024-05-27 14:52:04,398 silver-adder INFO: Sending result 10
+server-1  | 2024-05-27 14:52:04,398 server INFO: Received WURF from silver-adder with value 10 at [19,7,0,5,]
+server-1  | 2024-05-27 14:52:04,398 server INFO: Reject WURF from silver-adder because it doe not depend on last start time [22, 0, 0, 9]

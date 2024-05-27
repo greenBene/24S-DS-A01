@@ -1,0 +1,934 @@
+client-25  | 2024-05-27 14:56:03,720 passionate-tanuki INFO: Received INIT commat at [2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 1.
+client-44  | 2024-05-27 14:56:04,087 merciful-ocelot INFO: Received INIT commat at [4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 3.
+client-8   | 2024-05-27 14:56:03,922 onyx-earthworm INFO: Received INIT commat at [3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 2.
+client-43  | 2024-05-27 14:56:04,519 fast-gibbon INFO: Received INIT commat at [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 5.
+server-1   | 2024-05-27 14:56:03,719 server INFO: Incomming connection from ('172.22.0.3', 55134)
+server-1   | 2024-05-27 14:56:03,921 server INFO: Incomming connection from ('172.22.0.4', 38438)
+server-1   | 2024-05-27 14:56:04,087 server INFO: Incomming connection from ('172.22.0.5', 42152)
+server-1   | 2024-05-27 14:56:04,301 server INFO: Incomming connection from ('172.22.0.6', 34448)
+server-1   | 2024-05-27 14:56:04,519 server INFO: Incomming connection from ('172.22.0.7', 52496)
+client-3   | 2024-05-27 14:56:04,302 impartial-badger INFO: Received INIT commat at [5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 4.
+client-6   | 2024-05-27 14:56:04,902 perfect-worm INFO: Received INIT commat at [7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 6.
+server-1   | 2024-05-27 14:56:04,902 server INFO: Incomming connection from ('172.22.0.8', 36430)
+client-6   | 2024-05-27 14:56:04,902 perfect-worm INFO: Received INIT commat at [7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 6.
+client-13  | 2024-05-27 14:56:05,098 sweet-malkoha INFO: Received INIT commat at [8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 7.
+server-1   | 2024-05-27 14:56:05,097 server INFO: Incomming connection from ('172.22.0.9', 57856)
+server-1   | 2024-05-27 14:56:05,362 server INFO: Incomming connection from ('172.22.0.10', 49002)
+client-18  | 2024-05-27 14:56:05,362 outrageous-polecat INFO: Received INIT commat at [9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 8.
+server-1   | 2024-05-27 14:56:05,608 server INFO: Incomming connection from ('172.22.0.11', 57708)
+client-45  | 2024-05-27 14:56:05,609 stimulating-beetle INFO: Received INIT commat at [10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 9.
+server-1   | 2024-05-27 14:56:05,783 server INFO: Incomming connection from ('172.22.0.12', 58874)
+client-12  | 2024-05-27 14:56:05,783 winged-starfish INFO: Received INIT commat at [11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 10.
+client-21  | 2024-05-27 14:56:06,001 rousing-chupacabra INFO: Received INIT commat at [12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 11.
+server-1   | 2024-05-27 14:56:06,001 server INFO: Incomming connection from ('172.22.0.13', 50620)
+server-1   | 2024-05-27 14:56:06,199 server INFO: Incomming connection from ('172.22.0.14', 53152)
+client-5   | 2024-05-27 14:56:06,200 dainty-bullmastiff INFO: Received INIT commat at [13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 12.
+server-1   | 2024-05-27 14:56:06,395 server INFO: Incomming connection from ('172.22.0.15', 34136)
+client-17  | 2024-05-27 14:56:06,395 spiked-urchin INFO: Received INIT commat at [14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 13.
+client-29  | 2024-05-27 14:56:06,624 charcoal-markhor INFO: Received INIT commat at [15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 14.
+server-1   | 2024-05-27 14:56:06,623 server INFO: Incomming connection from ('172.22.0.16', 36138)
+server-1   | 2024-05-27 14:56:06,819 server INFO: Incomming connection from ('172.22.0.17', 35726)
+client-19  | 2024-05-27 14:56:06,819 tested-turkey INFO: Received INIT commat at [16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 15.
+server-1   | 2024-05-27 14:56:06,979 server INFO: Incomming connection from ('172.22.0.18', 48226)
+client-35  | 2024-05-27 14:56:06,980 beneficial-uakari INFO: Received INIT commat at [17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 16.
+server-1   | 2024-05-27 14:56:07,234 server INFO: Incomming connection from ('172.22.0.19', 35308)
+client-30  | 2024-05-27 14:56:07,234 resilient-coua INFO: Received INIT commat at [18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 17.
+server-1   | 2024-05-27 14:56:07,429 server INFO: Incomming connection from ('172.22.0.20', 45234)
+client-33  | 2024-05-27 14:56:07,429 delicate-turtle INFO: Received INIT commat at [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 18.
+server-1   | 2024-05-27 14:56:07,598 server INFO: Incomming connection from ('172.22.0.21', 59780)
+client-37  | 2024-05-27 14:56:07,599 naughty-kakapo INFO: Received INIT commat at [20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 19.
+server-1   | 2024-05-27 14:56:07,754 server INFO: Incomming connection from ('172.22.0.22', 49846)
+client-11  | 2024-05-27 14:56:07,755 tireless-tapir INFO: Received INIT commat at [21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 20.
+server-1   | 2024-05-27 14:56:07,944 server INFO: Incomming connection from ('172.22.0.23', 53024)
+client-20  | 2024-05-27 14:56:07,945 nifty-hedgehog INFO: Received INIT commat at [22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 21.
+server-1   | 2024-05-27 14:56:08,114 server INFO: Incomming connection from ('172.22.0.24', 50246)
+client-1   | 2024-05-27 14:56:08,115 brave-cougar INFO: Received INIT commat at [23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 22.
+server-1   | 2024-05-27 14:56:08,346 server INFO: Incomming connection from ('172.22.0.25', 39674)
+client-10  | 2024-05-27 14:56:08,348 complex-emu INFO: Received INIT commat at [24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 23.
+client-43  | 2024-05-27 14:56:08,437 fast-gibbon INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:08,437 fast-gibbon INFO: Waiting 5.182331179529997s to send result 83.
+client-1   | 2024-05-27 14:56:08,438 brave-cougar INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:08,438 brave-cougar INFO: Waiting 2.383978455547032s to send result 73.
+client-18  | 2024-05-27 14:56:08,437 outrageous-polecat INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-20  | 2024-05-27 14:56:08,437 nifty-hedgehog INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-18  | 2024-05-27 14:56:08,437 outrageous-polecat INFO: Waiting 1.0508747145127162s to send result 38.
+server-1   | 2024-05-27 14:56:08,436 server INFO: Sending START (23 clients)
+client-20  | 2024-05-27 14:56:08,437 nifty-hedgehog INFO: Waiting 9.222178551123857s to send result 45.
+client-11  | 2024-05-27 14:56:08,438 tireless-tapir INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-11  | 2024-05-27 14:56:08,439 tireless-tapir INFO: Waiting 5.62922432056756s to send result 59.
+client-17  | 2024-05-27 14:56:08,439 spiked-urchin INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-17  | 2024-05-27 14:56:08,439 spiked-urchin INFO: Waiting 3.6990245572339173s to send result 97.
+client-8   | 2024-05-27 14:56:08,438 onyx-earthworm INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-8   | 2024-05-27 14:56:08,439 onyx-earthworm INFO: Waiting 9.988938130561086s to send result 34.
+client-37  | 2024-05-27 14:56:08,440 naughty-kakapo INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-6   | 2024-05-27 14:56:08,439 perfect-worm INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:08,438 dainty-bullmastiff INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:08,439 dainty-bullmastiff INFO: Waiting 5.738722903476266s to send result 32.
+client-6   | 2024-05-27 14:56:08,439 perfect-worm INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-3   | 2024-05-27 14:56:08,438 impartial-badger INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-3   | 2024-05-27 14:56:08,438 impartial-badger INFO: Waiting 5.548849547393514s to send result 57.
+client-19  | 2024-05-27 14:56:08,438 tested-turkey INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-19  | 2024-05-27 14:56:08,438 tested-turkey INFO: Waiting 7.383553379024244s to send result 83.
+client-37  | 2024-05-27 14:56:08,441 naughty-kakapo INFO: Waiting 9.883147749841164s to send result 15.
+client-6   | 2024-05-27 14:56:08,441 perfect-worm INFO: Waiting 5.649779372475434s to send result 43.
+client-6   | 2024-05-27 14:56:08,441 perfect-worm INFO: Waiting 5.649779372475434s to send result 43.
+client-12  | 2024-05-27 14:56:08,441 winged-starfish INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-12  | 2024-05-27 14:56:08,442 winged-starfish INFO: Waiting 0.08338140837164665s to send result 48.
+client-44  | 2024-05-27 14:56:08,443 merciful-ocelot INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:08,443 sweet-malkoha INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:08,443 sweet-malkoha INFO: Waiting 4.515999076446309s to send result 15.
+client-21  | 2024-05-27 14:56:08,443 rousing-chupacabra INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-21  | 2024-05-27 14:56:08,443 rousing-chupacabra INFO: Waiting 8.647735010411719s to send result 26.
+client-29  | 2024-05-27 14:56:08,443 charcoal-markhor INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-29  | 2024-05-27 14:56:08,443 charcoal-markhor INFO: Waiting 7.941011311532816s to send result 5.
+client-44  | 2024-05-27 14:56:08,444 merciful-ocelot INFO: Waiting 0.25325442858837643s to send result 65.
+client-35  | 2024-05-27 14:56:08,444 beneficial-uakari INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-35  | 2024-05-27 14:56:08,445 beneficial-uakari INFO: Waiting 6.727145062910003s to send result 83.
+client-33  | 2024-05-27 14:56:08,444 delicate-turtle INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-33  | 2024-05-27 14:56:08,445 delicate-turtle INFO: Waiting 6.420516166111839s to send result 24.
+client-25  | 2024-05-27 14:56:08,444 passionate-tanuki INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-25  | 2024-05-27 14:56:08,444 passionate-tanuki INFO: Waiting 0.8155352649924819s to send result 6.
+client-30  | 2024-05-27 14:56:08,445 resilient-coua INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:08,449 stimulating-beetle INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:08,451 stimulating-beetle INFO: Waiting 0.5650029865225292s to send result 76.
+client-30  | 2024-05-27 14:56:08,453 resilient-coua INFO: Waiting 7.64061660331755s to send result 71.
+client-10  | 2024-05-27 14:56:08,455 complex-emu INFO: Received START command at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-10  | 2024-05-27 14:56:08,456 complex-emu INFO: Waiting 9.702980875905569s to send result 89.
+client-12  | 2024-05-27 14:56:08,526 winged-starfish INFO: Sending result 48
+server-1   | 2024-05-27 14:56:08,528 server INFO: Received WURF from winged-starfish with value 48 at [25,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:08,529 server INFO: Accepted WURF from winged-starfish because it depends on last start time [25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-46  | 2024-05-27 14:56:08,602 brainy-basilisk INFO: Received INIT commat at [27,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 24.
+server-1   | 2024-05-27 14:56:08,601 server INFO: Incomming connection from ('172.22.0.26', 60292)
+client-44  | 2024-05-27 14:56:08,698 merciful-ocelot INFO: Sending result 65
+server-1   | 2024-05-27 14:56:08,699 server INFO: Received WURF from merciful-ocelot with value 65 at [25,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:08,699 server INFO: Reject WURF from merciful-ocelot because it doe not depend on last start time [27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:08,920 server INFO: Incomming connection from ('172.22.0.27', 34080)
+client-2   | 2024-05-27 14:56:08,921 adventurous-goat INFO: Received INIT commat at [28,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 25.
+server-1   | 2024-05-27 14:56:09,019 server INFO: Received WURF from stimulating-beetle with value 76 at [25,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:09,019 server INFO: Reject WURF from stimulating-beetle because it doe not depend on last start time [28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-45  | 2024-05-27 14:56:09,018 stimulating-beetle INFO: Sending result 76
+server-1   | 2024-05-27 14:56:09,203 server INFO: Incomming connection from ('172.22.0.28', 45820)
+client-7   | 2024-05-27 14:56:09,203 papaya-carp INFO: Received INIT commat at [29,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 26.
+server-1   | 2024-05-27 14:56:09,262 server INFO: Received WURF from passionate-tanuki with value 6 at [25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:09,262 server INFO: Reject WURF from passionate-tanuki because it doe not depend on last start time [29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-25  | 2024-05-27 14:56:09,261 passionate-tanuki INFO: Sending result 6
+client-18  | 2024-05-27 14:56:09,488 outrageous-polecat INFO: Sending result 38
+server-1   | 2024-05-27 14:56:09,489 server INFO: Received WURF from outrageous-polecat with value 38 at [25,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:09,490 server INFO: Reject WURF from outrageous-polecat because it doe not depend on last start time [29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:09,575 server INFO: Incomming connection from ('172.22.0.29', 59352)
+client-32  | 2024-05-27 14:56:09,576 sceptical-cuttlefish INFO: Received INIT commat at [30,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 27.
+server-1   | 2024-05-27 14:56:10,041 server INFO: Incomming connection from ('172.22.0.30', 45772)
+client-9   | 2024-05-27 14:56:10,041 quartz-hornet INFO: Received INIT commat at [31,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 28.
+server-1   | 2024-05-27 14:56:10,147 server INFO: Incomming connection from ('172.22.0.31', 35020)
+client-34  | 2024-05-27 14:56:10,148 shapeless-partridge INFO: Received INIT commat at [32,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 29.
+server-1   | 2024-05-27 14:56:10,426 server INFO: Incomming connection from ('172.22.0.32', 35398)
+client-36  | 2024-05-27 14:56:10,426 skilled-newt INFO: Received INIT commat at [33,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 30.
+server-1   | 2024-05-27 14:56:10,736 server INFO: Incomming connection from ('172.22.0.33', 54178)
+client-42  | 2024-05-27 14:56:10,737 white-goat INFO: Received INIT commat at [34,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 31.
+server-1   | 2024-05-27 14:56:10,825 server INFO: Received WURF from brave-cougar with value 73 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:10,825 server INFO: Reject WURF from brave-cougar because it doe not depend on last start time [34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-1   | 2024-05-27 14:56:10,823 brave-cougar INFO: Sending result 73
+server-1   | 2024-05-27 14:56:11,044 server INFO: Incomming connection from ('172.22.0.34', 50158)
+client-31  | 2024-05-27 14:56:11,045 hidden-dogfish INFO: Received INIT commat at [35,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 32.
+server-1   | 2024-05-27 14:56:11,348 server INFO: Incomming connection from ('172.22.0.35', 56460)
+client-16  | 2024-05-27 14:56:11,349 messy-wapiti INFO: Received INIT commat at [36,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 33.
+client-4   | 2024-05-27 14:56:11,654 obedient-salmon INFO: Received INIT commat at [37,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 34.
+server-1   | 2024-05-27 14:56:11,653 server INFO: Incomming connection from ('172.22.0.36', 60498)
+server-1   | 2024-05-27 14:56:12,026 server INFO: Incomming connection from ('172.22.0.37', 51738)
+client-40  | 2024-05-27 14:56:12,026 enchanted-kittiwake INFO: Received INIT commat at [38,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 35.
+server-1   | 2024-05-27 14:56:12,144 server INFO: Received WURF from spiked-urchin with value 97 at [25,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:12,144 server INFO: Reject WURF from spiked-urchin because it doe not depend on last start time [38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-17  | 2024-05-27 14:56:12,143 spiked-urchin INFO: Sending result 97
+server-1   | 2024-05-27 14:56:12,282 server INFO: Incomming connection from ('172.22.0.38', 45124)
+client-47  | 2024-05-27 14:56:12,283 devout-moose INFO: Received INIT commat at [39,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 36.
+server-1   | 2024-05-27 14:56:12,640 server INFO: Incomming connection from ('172.22.0.39', 57486)
+client-28  | 2024-05-27 14:56:12,640 stereotyped-sparrow INFO: Received INIT commat at [40,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 37.
+client-26  | 2024-05-27 14:56:12,910 whimsical-marmot INFO: Received INIT commat at [41,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 38.
+server-1   | 2024-05-27 14:56:12,909 server INFO: Incomming connection from ('172.22.0.40', 59132)
+client-13  | 2024-05-27 14:56:12,962 sweet-malkoha INFO: Sending result 15
+server-1   | 2024-05-27 14:56:12,963 server INFO: Received WURF from sweet-malkoha with value 15 at [25,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:12,963 server INFO: Reject WURF from sweet-malkoha because it doe not depend on last start time [41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:13,093 server INFO: Incomming connection from ('172.22.0.41', 37766)
+client-49  | 2024-05-27 14:56:13,095 zircon-ape INFO: Received INIT commat at [42,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 39.
+server-1   | 2024-05-27 14:56:13,445 server INFO: Sending STOP
+server-1   | 2024-05-27 14:56:13,449 server INFO: Client 'winged-starfish' won with the value 48
+server-1   | 2024-05-27 14:56:13,504 server INFO: Incomming connection from ('172.22.0.42', 42096)
+client-48  | 2024-05-27 14:56:13,505 stimulating-capybara INFO: Received INIT commat at [45,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 40.
+client-43  | 2024-05-27 14:56:13,620 fast-gibbon INFO: Sending result 83
+server-1   | 2024-05-27 14:56:13,620 server INFO: Received WURF from fast-gibbon with value 83 at [25,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:13,621 server INFO: Reject WURF from fast-gibbon because it doe not depend on last start time [45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:13,670 server INFO: Incomming connection from ('172.22.0.43', 53030)
+client-38  | 2024-05-27 14:56:13,671 hissing-scorpion INFO: Received INIT commat at [46,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 41.
+server-1   | 2024-05-27 14:56:13,872 server INFO: Incomming connection from ('172.22.0.44', 38442)
+client-15  | 2024-05-27 14:56:13,874 hot-sunfish INFO: Received INIT commat at [47,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 42.
+server-1   | 2024-05-27 14:56:13,989 server INFO: Received WURF from impartial-badger with value 57 at [25,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-3   | 2024-05-27 14:56:13,988 impartial-badger INFO: Sending result 57
+server-1   | 2024-05-27 14:56:13,989 server INFO: Reject WURF from impartial-badger because it doe not depend on last start time [47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:14,031 server INFO: Incomming connection from ('172.22.0.45', 37330)
+client-50  | 2024-05-27 14:56:14,031 dashing-swan INFO: Received INIT commat at [48,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 43.
+client-11  | 2024-05-27 14:56:14,071 tireless-tapir INFO: Sending result 59
+server-1   | 2024-05-27 14:56:14,071 server INFO: Received WURF from tireless-tapir with value 59 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:14,072 server INFO: Reject WURF from tireless-tapir because it doe not depend on last start time [48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:14,094 perfect-worm INFO: Sending result 43
+server-1   | 2024-05-27 14:56:14,095 server INFO: Received WURF from perfect-worm with value 43 at [25,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:14,095 server INFO: Reject WURF from perfect-worm because it doe not depend on last start time [48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:14,094 perfect-worm INFO: Sending result 43
+client-5   | 2024-05-27 14:56:14,183 dainty-bullmastiff INFO: Sending result 32
+server-1   | 2024-05-27 14:56:14,184 server INFO: Received WURF from dainty-bullmastiff with value 32 at [25,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:14,184 server INFO: Reject WURF from dainty-bullmastiff because it doe not depend on last start time [48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:14,331 server INFO: Incomming connection from ('172.22.0.46', 54870)
+client-41  | 2024-05-27 14:56:14,331 omniscient-fulmar INFO: Received INIT commat at [49,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 44.
+client-11  | 2024-05-27 14:56:14,453 tireless-tapir INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-11  | 2024-05-27 14:56:14,453 tireless-tapir INFO: Waiting 1.116992121040159s to send result 46.
+client-18  | 2024-05-27 14:56:14,453 outrageous-polecat INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-18  | 2024-05-27 14:56:14,453 outrageous-polecat INFO: Waiting 7.461664639807771s to send result 14.
+client-49  | 2024-05-27 14:56:14,453 zircon-ape INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:14,451 fast-gibbon INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:14,451 fast-gibbon INFO: Waiting 5.560676264958336s to send result 5.
+client-6   | 2024-05-27 14:56:14,453 perfect-worm INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+server-1   | 2024-05-27 14:56:14,450 server INFO: Sending START (44 clients)
+client-6   | 2024-05-27 14:56:14,453 perfect-worm INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-15  | 2024-05-27 14:56:14,454 hot-sunfish INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-15  | 2024-05-27 14:56:14,454 hot-sunfish INFO: Waiting 7.871835230034091s to send result 52.
+client-17  | 2024-05-27 14:56:14,451 spiked-urchin INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-17  | 2024-05-27 14:56:14,452 spiked-urchin INFO: Waiting 8.887587318166267s to send result 52.
+client-2   | 2024-05-27 14:56:14,452 adventurous-goat INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-2   | 2024-05-27 14:56:14,452 adventurous-goat INFO: Waiting 9.647002851062798s to send result 30.
+client-1   | 2024-05-27 14:56:14,451 brave-cougar INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:14,451 brave-cougar INFO: Waiting 4.9125635615305345s to send result 37.
+client-6   | 2024-05-27 14:56:14,454 perfect-worm INFO: Waiting 9.57373951208629s to send result 5.
+client-46  | 2024-05-27 14:56:14,454 brainy-basilisk INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-47  | 2024-05-27 14:56:14,455 devout-moose INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-47  | 2024-05-27 14:56:14,456 devout-moose INFO: Waiting 0.9218987088351749s to send result 50.
+client-49  | 2024-05-27 14:56:14,455 zircon-ape INFO: Waiting 9.25085319643986s to send result 45.
+client-9   | 2024-05-27 14:56:14,456 quartz-hornet INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-9   | 2024-05-27 14:56:14,457 quartz-hornet INFO: Waiting 7.806597237591895s to send result 53.
+client-6   | 2024-05-27 14:56:14,454 perfect-worm INFO: Waiting 9.57373951208629s to send result 5.
+client-46  | 2024-05-27 14:56:14,458 brainy-basilisk INFO: Waiting 5.7598062241844605s to send result 62.
+client-28  | 2024-05-27 14:56:14,457 stereotyped-sparrow INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-28  | 2024-05-27 14:56:14,458 stereotyped-sparrow INFO: Waiting 3.356693366833902s to send result 35.
+client-5   | 2024-05-27 14:56:14,460 dainty-bullmastiff INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:14,461 dainty-bullmastiff INFO: Waiting 3.812653726993468s to send result 39.
+client-36  | 2024-05-27 14:56:14,455 skilled-newt INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-3   | 2024-05-27 14:56:14,460 impartial-badger INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-26  | 2024-05-27 14:56:14,459 whimsical-marmot INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-26  | 2024-05-27 14:56:14,459 whimsical-marmot INFO: Waiting 3.949852415484086s to send result 33.
+client-12  | 2024-05-27 14:56:14,461 winged-starfish INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-12  | 2024-05-27 14:56:14,462 winged-starfish INFO: Waiting 4.202109687162016s to send result 55.
+client-45  | 2024-05-27 14:56:14,463 stimulating-beetle INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:14,463 stimulating-beetle INFO: Waiting 7.3792670771607485s to send result 61.
+client-3   | 2024-05-27 14:56:14,461 impartial-badger INFO: Waiting 9.569524934364475s to send result 68.
+client-7   | 2024-05-27 14:56:14,464 papaya-carp INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-7   | 2024-05-27 14:56:14,464 papaya-carp INFO: Waiting 9.712763633952562s to send result 92.
+client-31  | 2024-05-27 14:56:14,464 hidden-dogfish INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-31  | 2024-05-27 14:56:14,464 hidden-dogfish INFO: Waiting 7.139991939892326s to send result 99.
+client-4   | 2024-05-27 14:56:14,465 obedient-salmon INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-4   | 2024-05-27 14:56:14,465 obedient-salmon INFO: Waiting 6.759393119153863s to send result 33.
+client-36  | 2024-05-27 14:56:14,461 skilled-newt INFO: Waiting 7.035197797961443s to send result 38.
+client-40  | 2024-05-27 14:56:14,465 enchanted-kittiwake INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-25  | 2024-05-27 14:56:14,469 passionate-tanuki INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-48  | 2024-05-27 14:56:14,469 stimulating-capybara INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-42  | 2024-05-27 14:56:14,467 white-goat INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-42  | 2024-05-27 14:56:14,467 white-goat INFO: Waiting 1.7746742662833326s to send result 10.
+client-32  | 2024-05-27 14:56:14,468 sceptical-cuttlefish INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-50  | 2024-05-27 14:56:14,467 dashing-swan INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-50  | 2024-05-27 14:56:14,468 dashing-swan INFO: Waiting 3.9983135257936278s to send result 88.
+client-41  | 2024-05-27 14:56:14,469 omniscient-fulmar INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-44  | 2024-05-27 14:56:14,468 merciful-ocelot INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-44  | 2024-05-27 14:56:14,468 merciful-ocelot INFO: Waiting 1.1844774054555685s to send result 10.
+client-13  | 2024-05-27 14:56:14,468 sweet-malkoha INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:14,468 sweet-malkoha INFO: Waiting 1.748333532157894s to send result 5.
+client-25  | 2024-05-27 14:56:14,470 passionate-tanuki INFO: Waiting 4.319479651610797s to send result 37.
+client-34  | 2024-05-27 14:56:14,467 shapeless-partridge INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-34  | 2024-05-27 14:56:14,467 shapeless-partridge INFO: Waiting 1.0069950331467414s to send result 17.
+client-38  | 2024-05-27 14:56:14,469 hissing-scorpion INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-40  | 2024-05-27 14:56:14,466 enchanted-kittiwake INFO: Waiting 2.196444663605155s to send result 72.
+client-16  | 2024-05-27 14:56:14,467 messy-wapiti INFO: Received START command at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-48  | 2024-05-27 14:56:14,470 stimulating-capybara INFO: Waiting 2.25319827509514s to send result 74.
+client-16  | 2024-05-27 14:56:14,471 messy-wapiti INFO: Waiting 0.49613664682163106s to send result 49.
+client-41  | 2024-05-27 14:56:14,470 omniscient-fulmar INFO: Waiting 9.266060073098359s to send result 80.
+client-38  | 2024-05-27 14:56:14,470 hissing-scorpion INFO: Waiting 1.3951190364707267s to send result 73.
+client-32  | 2024-05-27 14:56:14,470 sceptical-cuttlefish INFO: Waiting 8.134514229394178s to send result 71.
+server-1   | 2024-05-27 14:56:14,558 server INFO: Incomming connection from ('172.22.0.47', 44510)
+client-22  | 2024-05-27 14:56:14,559 cuddly-smilodon INFO: Received INIT commat at [51,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 45.
+client-24  | 2024-05-27 14:56:14,748 merry-woodlouse INFO: Received INIT commat at [52,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 46.
+server-1   | 2024-05-27 14:56:14,748 server INFO: Incomming connection from ('172.22.0.48', 39430)
+client-33  | 2024-05-27 14:56:14,866 delicate-turtle INFO: Sending result 24
+server-1   | 2024-05-27 14:56:14,867 server INFO: Received WURF from delicate-turtle with value 24 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:14,867 server INFO: Reject WURF from delicate-turtle because it doe not depend on last start time [52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-23  | 2024-05-27 14:56:14,946 terrestrial-swift INFO: Received INIT commat at [53,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 47.
+server-1   | 2024-05-27 14:56:14,945 server INFO: Incomming connection from ('172.22.0.49', 34224)
+client-16  | 2024-05-27 14:56:14,969 messy-wapiti INFO: Sending result 49
+server-1   | 2024-05-27 14:56:14,970 server INFO: Received WURF from messy-wapiti with value 49 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:14,970 server INFO: Reject WURF from messy-wapiti because it doe not depend on last start time [53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-35  | 2024-05-27 14:56:15,173 beneficial-uakari INFO: Sending result 83
+server-1   | 2024-05-27 14:56:15,176 server INFO: Received WURF from beneficial-uakari with value 83 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,176 server INFO: Reject WURF from beneficial-uakari because it doe not depend on last start time [53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-27  | 2024-05-27 14:56:15,270 rugged-weasel INFO: Received INIT commat at [54,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 48.
+server-1   | 2024-05-27 14:56:15,269 server INFO: Incomming connection from ('172.22.0.50', 56028)
+client-47  | 2024-05-27 14:56:15,379 devout-moose INFO: Sending result 50
+server-1   | 2024-05-27 14:56:15,379 server INFO: Received WURF from devout-moose with value 50 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,380 server INFO: Reject WURF from devout-moose because it doe not depend on last start time [54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:15,476 server INFO: Received WURF from shapeless-partridge with value 17 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,476 server INFO: Reject WURF from shapeless-partridge because it doe not depend on last start time [54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-34  | 2024-05-27 14:56:15,475 shapeless-partridge INFO: Sending result 17
+server-1   | 2024-05-27 14:56:15,541 server INFO: Incomming connection from ('172.22.0.51', 40246)
+client-14  | 2024-05-27 14:56:15,542 resourceful-degu INFO: Received INIT commat at [55,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 49.
+client-11  | 2024-05-27 14:56:15,571 tireless-tapir INFO: Sending result 46
+server-1   | 2024-05-27 14:56:15,572 server INFO: Received WURF from tireless-tapir with value 46 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,572 server INFO: Reject WURF from tireless-tapir because it doe not depend on last start time [55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-44  | 2024-05-27 14:56:15,653 merciful-ocelot INFO: Sending result 10
+server-1   | 2024-05-27 14:56:15,654 server INFO: Received WURF from merciful-ocelot with value 10 at [50,0,0,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,654 server INFO: Reject WURF from merciful-ocelot because it doe not depend on last start time [55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-39  | 2024-05-27 14:56:15,752 shapeless-bumblebee INFO: Received INIT commat at [56,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]. This client is assinged number 50.
+server-1   | 2024-05-27 14:56:15,751 server INFO: Incomming connection from ('172.22.0.52', 54016)
+server-1   | 2024-05-27 14:56:15,753 server INFO: Stop accepting new connections
+client-19  | 2024-05-27 14:56:15,823 tested-turkey INFO: Sending result 83
+server-1   | 2024-05-27 14:56:15,824 server INFO: Received WURF from tested-turkey with value 83 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,824 server INFO: Reject WURF from tested-turkey because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-38  | 2024-05-27 14:56:15,868 hissing-scorpion INFO: Sending result 73
+server-1   | 2024-05-27 14:56:15,869 server INFO: Received WURF from hissing-scorpion with value 73 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:15,869 server INFO: Reject WURF from hissing-scorpion because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-30  | 2024-05-27 14:56:16,095 resilient-coua INFO: Sending result 71
+server-1   | 2024-05-27 14:56:16,095 server INFO: Received WURF from resilient-coua with value 71 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,096 server INFO: Reject WURF from resilient-coua because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:16,218 server INFO: Received WURF from sweet-malkoha with value 5 at [50,0,0,0,0,0,0,5,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,219 server INFO: Reject WURF from sweet-malkoha because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-13  | 2024-05-27 14:56:16,218 sweet-malkoha INFO: Sending result 5
+client-42  | 2024-05-27 14:56:16,243 white-goat INFO: Sending result 10
+server-1   | 2024-05-27 14:56:16,244 server INFO: Received WURF from white-goat with value 10 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,244 server INFO: Reject WURF from white-goat because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:16,394 server INFO: Received WURF from charcoal-markhor with value 5 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,394 server INFO: Reject WURF from charcoal-markhor because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-29  | 2024-05-27 14:56:16,393 charcoal-markhor INFO: Sending result 5
+client-40  | 2024-05-27 14:56:16,663 enchanted-kittiwake INFO: Sending result 72
+server-1   | 2024-05-27 14:56:16,663 server INFO: Received WURF from enchanted-kittiwake with value 72 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,664 server INFO: Reject WURF from enchanted-kittiwake because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-48  | 2024-05-27 14:56:16,726 stimulating-capybara INFO: Sending result 74
+server-1   | 2024-05-27 14:56:16,727 server INFO: Received WURF from stimulating-capybara with value 74 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:16,727 server INFO: Reject WURF from stimulating-capybara because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:17,091 server INFO: Received WURF from rousing-chupacabra with value 26 at [25,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:17,092 server INFO: Reject WURF from rousing-chupacabra because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-21  | 2024-05-27 14:56:17,091 rousing-chupacabra INFO: Sending result 26
+client-20  | 2024-05-27 14:56:17,668 nifty-hedgehog INFO: Sending result 45
+server-1   | 2024-05-27 14:56:17,668 server INFO: Received WURF from nifty-hedgehog with value 45 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:17,669 server INFO: Reject WURF from nifty-hedgehog because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-28  | 2024-05-27 14:56:17,817 stereotyped-sparrow INFO: Sending result 35
+server-1   | 2024-05-27 14:56:17,817 server INFO: Received WURF from stereotyped-sparrow with value 35 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:17,818 server INFO: Reject WURF from stereotyped-sparrow because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-10  | 2024-05-27 14:56:18,160 complex-emu INFO: Sending result 89
+server-1   | 2024-05-27 14:56:18,161 server INFO: Received WURF from complex-emu with value 89 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,161 server INFO: Reject WURF from complex-emu because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-5   | 2024-05-27 14:56:18,278 dainty-bullmastiff INFO: Sending result 39
+server-1   | 2024-05-27 14:56:18,278 server INFO: Received WURF from dainty-bullmastiff with value 39 at [50,0,0,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,279 server INFO: Reject WURF from dainty-bullmastiff because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-37  | 2024-05-27 14:56:18,330 naughty-kakapo INFO: Sending result 15
+server-1   | 2024-05-27 14:56:18,331 server INFO: Received WURF from naughty-kakapo with value 15 at [25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,331 server INFO: Reject WURF from naughty-kakapo because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-26  | 2024-05-27 14:56:18,414 whimsical-marmot INFO: Sending result 33
+server-1   | 2024-05-27 14:56:18,414 server INFO: Received WURF from whimsical-marmot with value 33 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,415 server INFO: Reject WURF from whimsical-marmot because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-8   | 2024-05-27 14:56:18,429 onyx-earthworm INFO: Sending result 34
+server-1   | 2024-05-27 14:56:18,429 server INFO: Received WURF from onyx-earthworm with value 34 at [25,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,430 server INFO: Reject WURF from onyx-earthworm because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-50  | 2024-05-27 14:56:18,468 dashing-swan INFO: Sending result 88
+server-1   | 2024-05-27 14:56:18,468 server INFO: Received WURF from dashing-swan with value 88 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,469 server INFO: Reject WURF from dashing-swan because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-12  | 2024-05-27 14:56:18,670 winged-starfish INFO: Sending result 55
+server-1   | 2024-05-27 14:56:18,671 server INFO: Received WURF from winged-starfish with value 55 at [50,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,671 server INFO: Reject WURF from winged-starfish because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-25  | 2024-05-27 14:56:18,795 passionate-tanuki INFO: Sending result 37
+server-1   | 2024-05-27 14:56:18,796 server INFO: Received WURF from passionate-tanuki with value 37 at [50,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:18,796 server INFO: Reject WURF from passionate-tanuki because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-1   | 2024-05-27 14:56:19,364 brave-cougar INFO: Sending result 37
+server-1   | 2024-05-27 14:56:19,365 server INFO: Received WURF from brave-cougar with value 37 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:19,365 server INFO: Reject WURF from brave-cougar because it doe not depend on last start time [56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:19,474 server INFO: Sending STOP
+server-1   | 2024-05-27 14:56:19,479 server INFO: No votes received
+client-43  | 2024-05-27 14:56:20,013 fast-gibbon INFO: Sending result 5
+server-1   | 2024-05-27 14:56:20,014 server INFO: Received WURF from fast-gibbon with value 5 at [50,0,0,0,0,5,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:20,014 server INFO: Reject WURF from fast-gibbon because it doe not depend on last start time [58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-46  | 2024-05-27 14:56:20,225 brainy-basilisk INFO: Sending result 62
+server-1   | 2024-05-27 14:56:20,225 server INFO: Received WURF from brainy-basilisk with value 62 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:20,226 server INFO: Reject WURF from brainy-basilisk because it doe not depend on last start time [58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:20,481 server INFO: Sending START (50 clients)
+client-20  | 2024-05-27 14:56:20,482 nifty-hedgehog INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-46  | 2024-05-27 14:56:20,482 brainy-basilisk INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:20,482 brave-cougar INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:20,482 brave-cougar INFO: Waiting 5.440132823857645s to send result 31.
+client-19  | 2024-05-27 14:56:20,482 tested-turkey INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-20  | 2024-05-27 14:56:20,482 nifty-hedgehog INFO: Waiting 6.511281913524484s to send result 76.
+client-22  | 2024-05-27 14:56:20,483 cuddly-smilodon INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:20,482 fast-gibbon INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:20,483 fast-gibbon INFO: Waiting 9.726429764731657s to send result 38.
+client-46  | 2024-05-27 14:56:20,482 brainy-basilisk INFO: Waiting 9.261943559247458s to send result 85.
+client-40  | 2024-05-27 14:56:20,483 enchanted-kittiwake INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-40  | 2024-05-27 14:56:20,483 enchanted-kittiwake INFO: Waiting 7.431812183302725s to send result 25.
+client-47  | 2024-05-27 14:56:20,484 devout-moose INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-47  | 2024-05-27 14:56:20,484 devout-moose INFO: Waiting 6.769164378785187s to send result 17.
+client-19  | 2024-05-27 14:56:20,483 tested-turkey INFO: Waiting 4.14385375674358s to send result 49.
+client-28  | 2024-05-27 14:56:20,484 stereotyped-sparrow INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-28  | 2024-05-27 14:56:20,484 stereotyped-sparrow INFO: Waiting 2.4149328782236923s to send result 95.
+client-23  | 2024-05-27 14:56:20,484 terrestrial-swift INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-30  | 2024-05-27 14:56:20,485 resilient-coua INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-26  | 2024-05-27 14:56:20,485 whimsical-marmot INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-26  | 2024-05-27 14:56:20,485 whimsical-marmot INFO: Waiting 7.680208164922694s to send result 59.
+client-23  | 2024-05-27 14:56:20,486 terrestrial-swift INFO: Waiting 3.050963382896814s to send result 60.
+client-12  | 2024-05-27 14:56:20,485 winged-starfish INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-12  | 2024-05-27 14:56:20,485 winged-starfish INFO: Waiting 6.690570159290127s to send result 30.
+client-22  | 2024-05-27 14:56:20,484 cuddly-smilodon INFO: Waiting 8.875774225359624s to send result 75.
+client-30  | 2024-05-27 14:56:20,486 resilient-coua INFO: Waiting 9.192304604656144s to send result 25.
+client-24  | 2024-05-27 14:56:20,484 merry-woodlouse INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:20,485 dainty-bullmastiff INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:20,485 dainty-bullmastiff INFO: Waiting 1.3243089612860914s to send result 41.
+client-24  | 2024-05-27 14:56:20,484 merry-woodlouse INFO: Waiting 4.98099867430084s to send result 30.
+client-27  | 2024-05-27 14:56:20,485 rugged-weasel INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-27  | 2024-05-27 14:56:20,486 rugged-weasel INFO: Waiting 7.420259370904115s to send result 43.
+client-39  | 2024-05-27 14:56:20,486 shapeless-bumblebee INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-39  | 2024-05-27 14:56:20,487 shapeless-bumblebee INFO: Waiting 6.468442181574723s to send result 78.
+client-11  | 2024-05-27 14:56:20,485 tireless-tapir INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-11  | 2024-05-27 14:56:20,486 tireless-tapir INFO: Waiting 8.466127782922655s to send result 56.
+client-42  | 2024-05-27 14:56:20,487 white-goat INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-42  | 2024-05-27 14:56:20,487 white-goat INFO: Waiting 5.141682465333309s to send result 4.
+client-16  | 2024-05-27 14:56:20,487 messy-wapiti INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-34  | 2024-05-27 14:56:20,487 shapeless-partridge INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-34  | 2024-05-27 14:56:20,487 shapeless-partridge INFO: Waiting 4.534040651631043s to send result 82.
+client-21  | 2024-05-27 14:56:20,488 rousing-chupacabra INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-37  | 2024-05-27 14:56:20,487 naughty-kakapo INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-37  | 2024-05-27 14:56:20,488 naughty-kakapo INFO: Waiting 0.302585387361588s to send result 38.
+client-16  | 2024-05-27 14:56:20,487 messy-wapiti INFO: Waiting 0.9111435228605735s to send result 87.
+client-13  | 2024-05-27 14:56:20,488 sweet-malkoha INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:20,488 sweet-malkoha INFO: Waiting 0.680443396186382s to send result 60.
+client-33  | 2024-05-27 14:56:20,488 delicate-turtle INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-33  | 2024-05-27 14:56:20,488 delicate-turtle INFO: Waiting 1.7691801836891263s to send result 33.
+client-14  | 2024-05-27 14:56:20,488 resourceful-degu INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-14  | 2024-05-27 14:56:20,488 resourceful-degu INFO: Waiting 3.838690827593126s to send result 52.
+client-21  | 2024-05-27 14:56:20,489 rousing-chupacabra INFO: Waiting 3.6670195934943717s to send result 49.
+client-48  | 2024-05-27 14:56:20,490 stimulating-capybara INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-35  | 2024-05-27 14:56:20,489 beneficial-uakari INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-35  | 2024-05-27 14:56:20,490 beneficial-uakari INFO: Waiting 2.6805782207451214s to send result 100.
+client-10  | 2024-05-27 14:56:20,489 complex-emu INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-10  | 2024-05-27 14:56:20,490 complex-emu INFO: Waiting 7.729798317057197s to send result 56.
+client-8   | 2024-05-27 14:56:20,487 onyx-earthworm INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-8   | 2024-05-27 14:56:20,489 onyx-earthworm INFO: Waiting 6.007610330015965s to send result 73.
+client-25  | 2024-05-27 14:56:20,489 passionate-tanuki INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-25  | 2024-05-27 14:56:20,489 passionate-tanuki INFO: Waiting 5.080917438530741s to send result 84.
+client-29  | 2024-05-27 14:56:20,489 charcoal-markhor INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-48  | 2024-05-27 14:56:20,491 stimulating-capybara INFO: Waiting 1.1889655525711562s to send result 20.
+client-44  | 2024-05-27 14:56:20,488 merciful-ocelot INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-44  | 2024-05-27 14:56:20,490 merciful-ocelot INFO: Waiting 3.596496556784703s to send result 92.
+client-38  | 2024-05-27 14:56:20,490 hissing-scorpion INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-38  | 2024-05-27 14:56:20,490 hissing-scorpion INFO: Waiting 8.665482136396053s to send result 93.
+client-50  | 2024-05-27 14:56:20,487 dashing-swan INFO: Received START command at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-29  | 2024-05-27 14:56:20,489 charcoal-markhor INFO: Waiting 2.0575209579314038s to send result 19.
+client-50  | 2024-05-27 14:56:20,487 dashing-swan INFO: Waiting 8.860063992916578s to send result 49.
+client-37  | 2024-05-27 14:56:20,791 naughty-kakapo INFO: Sending result 38
+server-1   | 2024-05-27 14:56:20,792 server INFO: Received WURF from naughty-kakapo with value 38 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:20,792 server INFO: Accepted WURF from naughty-kakapo because it depends on last start time [59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:21,171 server INFO: Received WURF from sweet-malkoha with value 60 at [59,0,0,0,0,0,0,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,171 server INFO: Reject WURF from sweet-malkoha because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-13  | 2024-05-27 14:56:21,170 sweet-malkoha INFO: Sending result 60
+client-4   | 2024-05-27 14:56:21,232 obedient-salmon INFO: Sending result 33
+server-1   | 2024-05-27 14:56:21,233 server INFO: Received WURF from obedient-salmon with value 33 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,233 server INFO: Reject WURF from obedient-salmon because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:21,402 server INFO: Received WURF from messy-wapiti with value 87 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-16  | 2024-05-27 14:56:21,401 messy-wapiti INFO: Sending result 87
+server-1   | 2024-05-27 14:56:21,403 server INFO: Reject WURF from messy-wapiti because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-36  | 2024-05-27 14:56:21,502 skilled-newt INFO: Sending result 38
+server-1   | 2024-05-27 14:56:21,503 server INFO: Received WURF from skilled-newt with value 38 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,503 server INFO: Reject WURF from skilled-newt because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-31  | 2024-05-27 14:56:21,605 hidden-dogfish INFO: Sending result 99
+server-1   | 2024-05-27 14:56:21,605 server INFO: Received WURF from hidden-dogfish with value 99 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,606 server INFO: Reject WURF from hidden-dogfish because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-48  | 2024-05-27 14:56:21,681 stimulating-capybara INFO: Sending result 20
+server-1   | 2024-05-27 14:56:21,682 server INFO: Received WURF from stimulating-capybara with value 20 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,682 server INFO: Reject WURF from stimulating-capybara because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:21,810 server INFO: Received WURF from dainty-bullmastiff with value 41 at [59,0,0,0,0,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,811 server INFO: Reject WURF from dainty-bullmastiff because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-5   | 2024-05-27 14:56:21,810 dainty-bullmastiff INFO: Sending result 41
+server-1   | 2024-05-27 14:56:21,848 server INFO: Received WURF from stimulating-beetle with value 61 at [50,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,849 server INFO: Reject WURF from stimulating-beetle because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-45  | 2024-05-27 14:56:21,848 stimulating-beetle INFO: Sending result 61
+server-1   | 2024-05-27 14:56:21,924 server INFO: Received WURF from outrageous-polecat with value 14 at [50,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:21,924 server INFO: Reject WURF from outrageous-polecat because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-18  | 2024-05-27 14:56:21,923 outrageous-polecat INFO: Sending result 14
+client-33  | 2024-05-27 14:56:22,260 delicate-turtle INFO: Sending result 33
+server-1   | 2024-05-27 14:56:22,261 server INFO: Received WURF from delicate-turtle with value 33 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:22,261 server INFO: Reject WURF from delicate-turtle because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-9   | 2024-05-27 14:56:22,279 quartz-hornet INFO: Sending result 53
+server-1   | 2024-05-27 14:56:22,279 server INFO: Received WURF from quartz-hornet with value 53 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:22,280 server INFO: Reject WURF from quartz-hornet because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-15  | 2024-05-27 14:56:22,332 hot-sunfish INFO: Sending result 52
+server-1   | 2024-05-27 14:56:22,333 server INFO: Received WURF from hot-sunfish with value 52 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:22,333 server INFO: Reject WURF from hot-sunfish because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:22,551 server INFO: Received WURF from charcoal-markhor with value 19 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-29  | 2024-05-27 14:56:22,550 charcoal-markhor INFO: Sending result 19
+server-1   | 2024-05-27 14:56:22,551 server INFO: Reject WURF from charcoal-markhor because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-32  | 2024-05-27 14:56:22,605 sceptical-cuttlefish INFO: Sending result 71
+server-1   | 2024-05-27 14:56:22,606 server INFO: Received WURF from sceptical-cuttlefish with value 71 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:22,606 server INFO: Reject WURF from sceptical-cuttlefish because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-28  | 2024-05-27 14:56:22,903 stereotyped-sparrow INFO: Sending result 95
+server-1   | 2024-05-27 14:56:22,904 server INFO: Received WURF from stereotyped-sparrow with value 95 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:22,904 server INFO: Reject WURF from stereotyped-sparrow because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-35  | 2024-05-27 14:56:23,174 beneficial-uakari INFO: Sending result 100
+server-1   | 2024-05-27 14:56:23,175 server INFO: Received WURF from beneficial-uakari with value 100 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:23,175 server INFO: Reject WURF from beneficial-uakari because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:23,354 server INFO: Received WURF from spiked-urchin with value 52 at [50,0,0,0,0,0,0,0,0,0,3,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:23,354 server INFO: Reject WURF from spiked-urchin because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-17  | 2024-05-27 14:56:23,349 spiked-urchin INFO: Sending result 52
+client-23  | 2024-05-27 14:56:23,541 terrestrial-swift INFO: Sending result 60
+server-1   | 2024-05-27 14:56:23,542 server INFO: Received WURF from terrestrial-swift with value 60 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,]
+server-1   | 2024-05-27 14:56:23,542 server INFO: Reject WURF from terrestrial-swift because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-49  | 2024-05-27 14:56:23,724 zircon-ape INFO: Sending result 45
+server-1   | 2024-05-27 14:56:23,725 server INFO: Received WURF from zircon-ape with value 45 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:23,725 server INFO: Reject WURF from zircon-ape because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-41  | 2024-05-27 14:56:23,744 omniscient-fulmar INFO: Sending result 80
+server-1   | 2024-05-27 14:56:23,744 server INFO: Received WURF from omniscient-fulmar with value 80 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:23,745 server INFO: Reject WURF from omniscient-fulmar because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-3   | 2024-05-27 14:56:24,034 impartial-badger INFO: Sending result 68
+server-1   | 2024-05-27 14:56:24,035 server INFO: Received WURF from impartial-badger with value 68 at [50,0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:24,035 server INFO: Reject WURF from impartial-badger because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:24,039 perfect-worm INFO: Sending result 5
+server-1   | 2024-05-27 14:56:24,039 server INFO: Received WURF from perfect-worm with value 5 at [50,0,0,0,0,0,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-6   | 2024-05-27 14:56:24,039 perfect-worm INFO: Sending result 5
+server-1   | 2024-05-27 14:56:24,040 server INFO: Reject WURF from perfect-worm because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:24,092 server INFO: Received WURF from merciful-ocelot with value 92 at [59,0,0,7,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:24,093 server INFO: Reject WURF from merciful-ocelot because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-44  | 2024-05-27 14:56:24,092 merciful-ocelot INFO: Sending result 92
+client-2   | 2024-05-27 14:56:24,110 adventurous-goat INFO: Sending result 30
+server-1   | 2024-05-27 14:56:24,110 server INFO: Received WURF from adventurous-goat with value 30 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:24,111 server INFO: Reject WURF from adventurous-goat because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-21  | 2024-05-27 14:56:24,162 rousing-chupacabra INFO: Sending result 49
+server-1   | 2024-05-27 14:56:24,162 server INFO: Received WURF from rousing-chupacabra with value 49 at [59,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:24,163 server INFO: Reject WURF from rousing-chupacabra because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:24,188 server INFO: Received WURF from papaya-carp with value 92 at [50,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-7   | 2024-05-27 14:56:24,187 papaya-carp INFO: Sending result 92
+server-1   | 2024-05-27 14:56:24,188 server INFO: Reject WURF from papaya-carp because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-14  | 2024-05-27 14:56:24,332 resourceful-degu INFO: Sending result 52
+server-1   | 2024-05-27 14:56:24,333 server INFO: Received WURF from resourceful-degu with value 52 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,]
+server-1   | 2024-05-27 14:56:24,333 server INFO: Reject WURF from resourceful-degu because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:24,632 server INFO: Received WURF from tested-turkey with value 49 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:24,633 server INFO: Reject WURF from tested-turkey because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-19  | 2024-05-27 14:56:24,632 tested-turkey INFO: Sending result 49
+client-34  | 2024-05-27 14:56:25,026 shapeless-partridge INFO: Sending result 82
+server-1   | 2024-05-27 14:56:25,027 server INFO: Received WURF from shapeless-partridge with value 82 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:25,027 server INFO: Reject WURF from shapeless-partridge because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:25,472 server INFO: Received WURF from merry-woodlouse with value 30 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,]
+client-24  | 2024-05-27 14:56:25,471 merry-woodlouse INFO: Sending result 30
+server-1   | 2024-05-27 14:56:25,472 server INFO: Reject WURF from merry-woodlouse because it doe not depend on last start time [60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:25,495 server INFO: Sending STOP
+server-1   | 2024-05-27 14:56:25,500 server INFO: Client 'naughty-kakapo' won with the value 38
+client-25  | 2024-05-27 14:56:25,577 passionate-tanuki INFO: Sending result 84
+server-1   | 2024-05-27 14:56:25,579 server INFO: Received WURF from passionate-tanuki with value 84 at [59,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:25,580 server INFO: Reject WURF from passionate-tanuki because it doe not depend on last start time [62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-42  | 2024-05-27 14:56:25,634 white-goat INFO: Sending result 4
+server-1   | 2024-05-27 14:56:25,635 server INFO: Received WURF from white-goat with value 4 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:25,635 server INFO: Reject WURF from white-goat because it doe not depend on last start time [62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-1   | 2024-05-27 14:56:25,929 brave-cougar INFO: Sending result 31
+server-1   | 2024-05-27 14:56:25,930 server INFO: Received WURF from brave-cougar with value 31 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:25,930 server INFO: Reject WURF from brave-cougar because it doe not depend on last start time [62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:26,502 server INFO: Sending START (50 clients)
+client-8   | 2024-05-27 14:56:26,502 onyx-earthworm INFO: Sending result 73
+server-1   | 2024-05-27 14:56:26,503 server INFO: Received WURF from onyx-earthworm with value 73 at [59,0,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:26,503 server INFO: Reject WURF from onyx-earthworm because it doe not depend on last start time [63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-18  | 2024-05-27 14:56:26,503 outrageous-polecat INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-18  | 2024-05-27 14:56:26,503 outrageous-polecat INFO: Waiting 9.938157525403712s to send result 31.
+client-49  | 2024-05-27 14:56:26,503 zircon-ape INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-49  | 2024-05-27 14:56:26,503 zircon-ape INFO: Waiting 6.903865096917135s to send result 63.
+client-5   | 2024-05-27 14:56:26,504 dainty-bullmastiff INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-5   | 2024-05-27 14:56:26,504 dainty-bullmastiff INFO: Waiting 8.92405541339524s to send result 76.
+client-44  | 2024-05-27 14:56:26,507 merciful-ocelot INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-44  | 2024-05-27 14:56:26,507 merciful-ocelot INFO: Waiting 7.726398535308122s to send result 58.
+client-4   | 2024-05-27 14:56:26,506 obedient-salmon INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-4   | 2024-05-27 14:56:26,506 obedient-salmon INFO: Waiting 8.7751158233182s to send result 2.
+client-31  | 2024-05-27 14:56:26,505 hidden-dogfish INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-31  | 2024-05-27 14:56:26,505 hidden-dogfish INFO: Waiting 8.544789766686115s to send result 18.
+client-8   | 2024-05-27 14:56:26,506 onyx-earthworm INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-8   | 2024-05-27 14:56:26,506 onyx-earthworm INFO: Waiting 4.208686351248925s to send result 46.
+client-3   | 2024-05-27 14:56:26,504 impartial-badger INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-3   | 2024-05-27 14:56:26,505 impartial-badger INFO: Waiting 9.663773950902101s to send result 68.
+client-17  | 2024-05-27 14:56:26,506 spiked-urchin INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-17  | 2024-05-27 14:56:26,506 spiked-urchin INFO: Waiting 1.6017669301853155s to send result 25.
+client-16  | 2024-05-27 14:56:26,507 messy-wapiti INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-16  | 2024-05-27 14:56:26,507 messy-wapiti INFO: Waiting 0.73435799524179s to send result 62.
+client-23  | 2024-05-27 14:56:26,505 terrestrial-swift INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-23  | 2024-05-27 14:56:26,505 terrestrial-swift INFO: Waiting 7.848828140383459s to send result 63.
+client-1   | 2024-05-27 14:56:26,503 brave-cougar INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:26,504 brave-cougar INFO: Waiting 4.303087598221202s to send result 3.
+client-6   | 2024-05-27 14:56:26,505 perfect-worm INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-6   | 2024-05-27 14:56:26,506 perfect-worm INFO: Waiting 5.0126526606170625s to send result 85.
+client-15  | 2024-05-27 14:56:26,503 hot-sunfish INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-15  | 2024-05-27 14:56:26,503 hot-sunfish INFO: Waiting 5.187109848877681s to send result 74.
+client-14  | 2024-05-27 14:56:26,507 resourceful-degu INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-14  | 2024-05-27 14:56:26,507 resourceful-degu INFO: Waiting 0.7748969366733571s to send result 17.
+client-6   | 2024-05-27 14:56:26,505 perfect-worm INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-6   | 2024-05-27 14:56:26,506 perfect-worm INFO: Waiting 5.0126526606170625s to send result 85.
+client-45  | 2024-05-27 14:56:26,504 stimulating-beetle INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:26,505 stimulating-beetle INFO: Waiting 1.6950990230611462s to send result 55.
+client-25  | 2024-05-27 14:56:26,507 passionate-tanuki INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-25  | 2024-05-27 14:56:26,507 passionate-tanuki INFO: Waiting 8.476186982185913s to send result 48.
+client-29  | 2024-05-27 14:56:26,507 charcoal-markhor INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-29  | 2024-05-27 14:56:26,508 charcoal-markhor INFO: Waiting 6.602345620198907s to send result 5.
+client-33  | 2024-05-27 14:56:26,507 delicate-turtle INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-33  | 2024-05-27 14:56:26,508 delicate-turtle INFO: Waiting 0.305649379921733s to send result 9.
+client-9   | 2024-05-27 14:56:26,504 quartz-hornet INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-37  | 2024-05-27 14:56:26,506 naughty-kakapo INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-37  | 2024-05-27 14:56:26,506 naughty-kakapo INFO: Waiting 7.939082248310834s to send result 16.
+client-41  | 2024-05-27 14:56:26,507 omniscient-fulmar INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-41  | 2024-05-27 14:56:26,508 omniscient-fulmar INFO: Waiting 1.2864303084538675s to send result 53.
+client-35  | 2024-05-27 14:56:26,508 beneficial-uakari INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-35  | 2024-05-27 14:56:26,508 beneficial-uakari INFO: Waiting 4.865619500405673s to send result 52.
+client-7   | 2024-05-27 14:56:26,505 papaya-carp INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-7   | 2024-05-27 14:56:26,505 papaya-carp INFO: Waiting 6.575092993195s to send result 51.
+client-48  | 2024-05-27 14:56:26,508 stimulating-capybara INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-48  | 2024-05-27 14:56:26,508 stimulating-capybara INFO: Waiting 2.3239950997924606s to send result 41.
+client-21  | 2024-05-27 14:56:26,507 rousing-chupacabra INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-21  | 2024-05-27 14:56:26,508 rousing-chupacabra INFO: Waiting 8.094398657108705s to send result 41.
+client-28  | 2024-05-27 14:56:26,505 stereotyped-sparrow INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-28  | 2024-05-27 14:56:26,505 stereotyped-sparrow INFO: Waiting 5.471273305234466s to send result 55.
+client-42  | 2024-05-27 14:56:26,506 white-goat INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-42  | 2024-05-27 14:56:26,506 white-goat INFO: Waiting 6.849248199685368s to send result 99.
+client-34  | 2024-05-27 14:56:26,505 shapeless-partridge INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-34  | 2024-05-27 14:56:26,506 shapeless-partridge INFO: Waiting 7.122058506747715s to send result 65.
+client-36  | 2024-05-27 14:56:26,504 skilled-newt INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-36  | 2024-05-27 14:56:26,504 skilled-newt INFO: Waiting 0.9113716654987025s to send result 48.
+client-24  | 2024-05-27 14:56:26,504 merry-woodlouse INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-24  | 2024-05-27 14:56:26,504 merry-woodlouse INFO: Waiting 4.180359010866218s to send result 74.
+client-13  | 2024-05-27 14:56:26,506 sweet-malkoha INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:26,506 sweet-malkoha INFO: Waiting 2.0919697084393265s to send result 59.
+client-2   | 2024-05-27 14:56:26,505 adventurous-goat INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-2   | 2024-05-27 14:56:26,505 adventurous-goat INFO: Waiting 0.6385024584113952s to send result 86.
+client-32  | 2024-05-27 14:56:26,507 sceptical-cuttlefish INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-32  | 2024-05-27 14:56:26,507 sceptical-cuttlefish INFO: Waiting 0.6209671219513013s to send result 37.
+client-19  | 2024-05-27 14:56:26,504 tested-turkey INFO: Received START command at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-19  | 2024-05-27 14:56:26,504 tested-turkey INFO: Waiting 1.6333694132554977s to send result 61.
+client-9   | 2024-05-27 14:56:26,509 quartz-hornet INFO: Waiting 9.231890976312537s to send result 62.
+client-33  | 2024-05-27 14:56:26,815 delicate-turtle INFO: Sending result 9
+server-1   | 2024-05-27 14:56:26,816 server INFO: Received WURF from delicate-turtle with value 9 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:26,816 server INFO: Accepted WURF from delicate-turtle because it depends on last start time [63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-39  | 2024-05-27 14:56:26,963 shapeless-bumblebee INFO: Sending result 78
+server-1   | 2024-05-27 14:56:26,963 server INFO: Received WURF from shapeless-bumblebee with value 78 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,]
+server-1   | 2024-05-27 14:56:26,964 server INFO: Reject WURF from shapeless-bumblebee because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-20  | 2024-05-27 14:56:27,001 nifty-hedgehog INFO: Sending result 76
+server-1   | 2024-05-27 14:56:27,002 server INFO: Received WURF from nifty-hedgehog with value 76 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,002 server INFO: Reject WURF from nifty-hedgehog because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:27,130 server INFO: Received WURF from sceptical-cuttlefish with value 37 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,131 server INFO: Reject WURF from sceptical-cuttlefish because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-32  | 2024-05-27 14:56:27,129 sceptical-cuttlefish INFO: Sending result 37
+client-2   | 2024-05-27 14:56:27,145 adventurous-goat INFO: Sending result 86
+server-1   | 2024-05-27 14:56:27,146 server INFO: Received WURF from adventurous-goat with value 86 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,146 server INFO: Reject WURF from adventurous-goat because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:27,184 server INFO: Received WURF from winged-starfish with value 30 at [59,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,184 server INFO: Reject WURF from winged-starfish because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-12  | 2024-05-27 14:56:27,183 winged-starfish INFO: Sending result 30
+client-16  | 2024-05-27 14:56:27,243 messy-wapiti INFO: Sending result 62
+server-1   | 2024-05-27 14:56:27,244 server INFO: Received WURF from messy-wapiti with value 62 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,244 server INFO: Reject WURF from messy-wapiti because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:27,263 server INFO: Received WURF from devout-moose with value 17 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-47  | 2024-05-27 14:56:27,262 devout-moose INFO: Sending result 17
+server-1   | 2024-05-27 14:56:27,263 server INFO: Reject WURF from devout-moose because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-14  | 2024-05-27 14:56:27,285 resourceful-degu INFO: Sending result 17
+server-1   | 2024-05-27 14:56:27,286 server INFO: Received WURF from resourceful-degu with value 17 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,]
+server-1   | 2024-05-27 14:56:27,286 server INFO: Reject WURF from resourceful-degu because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-36  | 2024-05-27 14:56:27,417 skilled-newt INFO: Sending result 48
+server-1   | 2024-05-27 14:56:27,418 server INFO: Received WURF from skilled-newt with value 48 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,418 server INFO: Reject WURF from skilled-newt because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-41  | 2024-05-27 14:56:27,797 omniscient-fulmar INFO: Sending result 53
+server-1   | 2024-05-27 14:56:27,798 server INFO: Received WURF from omniscient-fulmar with value 53 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,798 server INFO: Reject WURF from omniscient-fulmar because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-27  | 2024-05-27 14:56:27,915 rugged-weasel INFO: Sending result 43
+server-1   | 2024-05-27 14:56:27,916 server INFO: Received WURF from rugged-weasel with value 43 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,]
+server-1   | 2024-05-27 14:56:27,916 server INFO: Reject WURF from rugged-weasel because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:27,920 server INFO: Received WURF from enchanted-kittiwake with value 25 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:27,920 server INFO: Reject WURF from enchanted-kittiwake because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-40  | 2024-05-27 14:56:27,919 enchanted-kittiwake INFO: Sending result 25
+client-17  | 2024-05-27 14:56:28,110 spiked-urchin INFO: Sending result 25
+server-1   | 2024-05-27 14:56:28,111 server INFO: Received WURF from spiked-urchin with value 25 at [63,0,0,0,0,0,0,0,0,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,111 server INFO: Reject WURF from spiked-urchin because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:28,141 server INFO: Received WURF from tested-turkey with value 61 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,7,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,141 server INFO: Reject WURF from tested-turkey because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-19  | 2024-05-27 14:56:28,140 tested-turkey INFO: Sending result 61
+server-1   | 2024-05-27 14:56:28,175 server INFO: Received WURF from whimsical-marmot with value 59 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-26  | 2024-05-27 14:56:28,174 whimsical-marmot INFO: Sending result 59
+server-1   | 2024-05-27 14:56:28,175 server INFO: Reject WURF from whimsical-marmot because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-45  | 2024-05-27 14:56:28,202 stimulating-beetle INFO: Sending result 55
+server-1   | 2024-05-27 14:56:28,203 server INFO: Received WURF from stimulating-beetle with value 55 at [63,0,0,0,0,0,0,0,0,7,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,203 server INFO: Reject WURF from stimulating-beetle because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-10  | 2024-05-27 14:56:28,228 complex-emu INFO: Sending result 56
+server-1   | 2024-05-27 14:56:28,229 server INFO: Received WURF from complex-emu with value 56 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,229 server INFO: Reject WURF from complex-emu because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-13  | 2024-05-27 14:56:28,601 sweet-malkoha INFO: Sending result 59
+server-1   | 2024-05-27 14:56:28,602 server INFO: Received WURF from sweet-malkoha with value 59 at [63,0,0,0,0,0,0,9,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,602 server INFO: Reject WURF from sweet-malkoha because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:28,837 server INFO: Received WURF from stimulating-capybara with value 41 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,]
+client-48  | 2024-05-27 14:56:28,836 stimulating-capybara INFO: Sending result 41
+server-1   | 2024-05-27 14:56:28,837 server INFO: Reject WURF from stimulating-capybara because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-11  | 2024-05-27 14:56:28,952 tireless-tapir INFO: Sending result 56
+server-1   | 2024-05-27 14:56:28,952 server INFO: Received WURF from tireless-tapir with value 56 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:28,953 server INFO: Reject WURF from tireless-tapir because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:29,160 server INFO: Received WURF from hissing-scorpion with value 93 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,]
+client-38  | 2024-05-27 14:56:29,159 hissing-scorpion INFO: Sending result 93
+server-1   | 2024-05-27 14:56:29,160 server INFO: Reject WURF from hissing-scorpion because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-50  | 2024-05-27 14:56:29,357 dashing-swan INFO: Sending result 49
+server-1   | 2024-05-27 14:56:29,358 server INFO: Received WURF from dashing-swan with value 49 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:29,358 server INFO: Reject WURF from dashing-swan because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-22  | 2024-05-27 14:56:29,361 cuddly-smilodon INFO: Sending result 75
+server-1   | 2024-05-27 14:56:29,362 server INFO: Received WURF from cuddly-smilodon with value 75 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:29,362 server INFO: Reject WURF from cuddly-smilodon because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-30  | 2024-05-27 14:56:29,679 resilient-coua INFO: Sending result 25
+server-1   | 2024-05-27 14:56:29,680 server INFO: Received WURF from resilient-coua with value 25 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:29,680 server INFO: Reject WURF from resilient-coua because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-46  | 2024-05-27 14:56:29,754 brainy-basilisk INFO: Sending result 85
+server-1   | 2024-05-27 14:56:29,755 server INFO: Received WURF from brainy-basilisk with value 85 at [59,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:29,755 server INFO: Reject WURF from brainy-basilisk because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:30,223 server INFO: Received WURF from fast-gibbon with value 38 at [59,0,0,0,0,7,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:30,223 server INFO: Reject WURF from fast-gibbon because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-43  | 2024-05-27 14:56:30,222 fast-gibbon INFO: Sending result 38
+client-24  | 2024-05-27 14:56:30,690 merry-woodlouse INFO: Sending result 74
+server-1   | 2024-05-27 14:56:30,691 server INFO: Received WURF from merry-woodlouse with value 74 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,]
+server-1   | 2024-05-27 14:56:30,691 server INFO: Reject WURF from merry-woodlouse because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-8   | 2024-05-27 14:56:30,720 onyx-earthworm INFO: Sending result 46
+server-1   | 2024-05-27 14:56:30,720 server INFO: Received WURF from onyx-earthworm with value 46 at [63,0,7,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:30,721 server INFO: Reject WURF from onyx-earthworm because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-1   | 2024-05-27 14:56:30,812 brave-cougar INFO: Sending result 3
+server-1   | 2024-05-27 14:56:30,813 server INFO: Received WURF from brave-cougar with value 3 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:30,813 server INFO: Reject WURF from brave-cougar because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:31,420 server INFO: Received WURF from beneficial-uakari with value 52 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:31,420 server INFO: Reject WURF from beneficial-uakari because it doe not depend on last start time [64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-35  | 2024-05-27 14:56:31,390 beneficial-uakari INFO: Sending result 52
+server-1   | 2024-05-27 14:56:31,513 server INFO: Sending STOP
+server-1   | 2024-05-27 14:56:31,518 server INFO: Client 'delicate-turtle' won with the value 9
+client-6   | 2024-05-27 14:56:31,525 perfect-worm INFO: Sending result 85
+server-1   | 2024-05-27 14:56:31,526 server INFO: Received WURF from perfect-worm with value 85 at [63,0,0,0,0,0,7,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:31,526 server INFO: Reject WURF from perfect-worm because it doe not depend on last start time [66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:31,525 perfect-worm INFO: Sending result 85
+client-15  | 2024-05-27 14:56:31,696 hot-sunfish INFO: Sending result 74
+server-1   | 2024-05-27 14:56:31,699 server INFO: Received WURF from hot-sunfish with value 74 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:31,700 server INFO: Reject WURF from hot-sunfish because it doe not depend on last start time [66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:31,983 server INFO: Received WURF from stereotyped-sparrow with value 55 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:31,983 server INFO: Reject WURF from stereotyped-sparrow because it doe not depend on last start time [66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-28  | 2024-05-27 14:56:31,982 stereotyped-sparrow INFO: Sending result 55
+client-15  | 2024-05-27 14:56:32,521 hot-sunfish INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-15  | 2024-05-27 14:56:32,521 hot-sunfish INFO: Waiting 5.117604343471781s to send result 32.
+server-1   | 2024-05-27 14:56:32,520 server INFO: Sending START (50 clients)
+client-20  | 2024-05-27 14:56:32,521 nifty-hedgehog INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:32,521 brave-cougar INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-46  | 2024-05-27 14:56:32,521 brainy-basilisk INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-1   | 2024-05-27 14:56:32,522 brave-cougar INFO: Waiting 3.557526767758744s to send result 43.
+client-43  | 2024-05-27 14:56:32,521 fast-gibbon INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-43  | 2024-05-27 14:56:32,522 fast-gibbon INFO: Waiting 1.1276160834749893s to send result 52.
+client-46  | 2024-05-27 14:56:32,522 brainy-basilisk INFO: Waiting 2.8865920056553787s to send result 26.
+client-36  | 2024-05-27 14:56:32,523 skilled-newt INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-36  | 2024-05-27 14:56:32,523 skilled-newt INFO: Waiting 8.157329032458406s to send result 34.
+client-20  | 2024-05-27 14:56:32,521 nifty-hedgehog INFO: Waiting 2.0544194545966032s to send result 43.
+client-8   | 2024-05-27 14:56:32,526 onyx-earthworm INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-8   | 2024-05-27 14:56:32,526 onyx-earthworm INFO: Waiting 8.563289225400107s to send result 18.
+client-6   | 2024-05-27 14:56:32,525 perfect-worm INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-6   | 2024-05-27 14:56:32,526 perfect-worm INFO: Waiting 2.0755001100756387s to send result 30.
+client-28  | 2024-05-27 14:56:32,525 stereotyped-sparrow INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-28  | 2024-05-27 14:56:32,526 stereotyped-sparrow INFO: Waiting 2.778857861968884s to send result 85.
+client-30  | 2024-05-27 14:56:32,526 resilient-coua INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-30  | 2024-05-27 14:56:32,526 resilient-coua INFO: Waiting 6.98149380682753s to send result 15.
+client-2   | 2024-05-27 14:56:32,526 adventurous-goat INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-13  | 2024-05-27 14:56:32,527 sweet-malkoha INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:32,526 stimulating-beetle INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-45  | 2024-05-27 14:56:32,526 stimulating-beetle INFO: Waiting 1.3590755924863551s to send result 97.
+client-41  | 2024-05-27 14:56:32,528 omniscient-fulmar INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-24  | 2024-05-27 14:56:32,524 merry-woodlouse INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-24  | 2024-05-27 14:56:32,524 merry-woodlouse INFO: Waiting 4.026780337276654s to send result 100.
+client-38  | 2024-05-27 14:56:32,528 hissing-scorpion INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-38  | 2024-05-27 14:56:32,529 hissing-scorpion INFO: Waiting 5.578268577279385s to send result 52.
+client-27  | 2024-05-27 14:56:32,526 rugged-weasel INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-27  | 2024-05-27 14:56:32,527 rugged-weasel INFO: Waiting 6.33848048808379s to send result 89.
+client-50  | 2024-05-27 14:56:32,527 dashing-swan INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-50  | 2024-05-27 14:56:32,527 dashing-swan INFO: Waiting 6.8963174296498595s to send result 11.
+client-14  | 2024-05-27 14:56:32,528 resourceful-degu INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-14  | 2024-05-27 14:56:32,529 resourceful-degu INFO: Waiting 1.4699893157409394s to send result 100.
+client-13  | 2024-05-27 14:56:32,531 sweet-malkoha INFO: Waiting 9.14451151738238s to send result 12.
+client-47  | 2024-05-27 14:56:32,524 devout-moose INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-47  | 2024-05-27 14:56:32,528 devout-moose INFO: Waiting 2.7851460274976194s to send result 94.
+client-11  | 2024-05-27 14:56:32,525 tireless-tapir INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-11  | 2024-05-27 14:56:32,525 tireless-tapir INFO: Waiting 3.382313194308344s to send result 69.
+client-39  | 2024-05-27 14:56:32,527 shapeless-bumblebee INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-39  | 2024-05-27 14:56:32,530 shapeless-bumblebee INFO: Waiting 6.057470073468848s to send result 72.
+client-40  | 2024-05-27 14:56:32,528 enchanted-kittiwake INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-40  | 2024-05-27 14:56:32,528 enchanted-kittiwake INFO: Waiting 9.334654879294973s to send result 31.
+client-17  | 2024-05-27 14:56:32,525 spiked-urchin INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-33  | 2024-05-27 14:56:32,528 delicate-turtle INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-33  | 2024-05-27 14:56:32,528 delicate-turtle INFO: Waiting 5.72322934948835s to send result 78.
+client-6   | 2024-05-27 14:56:32,525 perfect-worm INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-6   | 2024-05-27 14:56:32,526 perfect-worm INFO: Waiting 2.0755001100756387s to send result 30.
+client-22  | 2024-05-27 14:56:32,523 cuddly-smilodon INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-22  | 2024-05-27 14:56:32,523 cuddly-smilodon INFO: Waiting 1.478233160079102s to send result 58.
+client-35  | 2024-05-27 14:56:32,529 beneficial-uakari INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-35  | 2024-05-27 14:56:32,530 beneficial-uakari INFO: Waiting 7.1391662612665465s to send result 53.
+client-10  | 2024-05-27 14:56:32,530 complex-emu INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-2   | 2024-05-27 14:56:32,529 adventurous-goat INFO: Waiting 9.797122521308438s to send result 48.
+client-19  | 2024-05-27 14:56:32,522 tested-turkey INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-19  | 2024-05-27 14:56:32,523 tested-turkey INFO: Waiting 1.742076549296817s to send result 65.
+client-32  | 2024-05-27 14:56:32,530 sceptical-cuttlefish INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-32  | 2024-05-27 14:56:32,530 sceptical-cuttlefish INFO: Waiting 7.619871623331498s to send result 97.
+client-12  | 2024-05-27 14:56:32,526 winged-starfish INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-12  | 2024-05-27 14:56:32,530 winged-starfish INFO: Waiting 8.39152889633298s to send result 4.
+client-41  | 2024-05-27 14:56:32,530 omniscient-fulmar INFO: Waiting 1.199363802614578s to send result 23.
+client-26  | 2024-05-27 14:56:32,524 whimsical-marmot INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-26  | 2024-05-27 14:56:32,524 whimsical-marmot INFO: Waiting 0.8471344267234049s to send result 88.
+client-48  | 2024-05-27 14:56:32,531 stimulating-capybara INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-48  | 2024-05-27 14:56:32,532 stimulating-capybara INFO: Waiting 2.106200127079374s to send result 29.
+client-17  | 2024-05-27 14:56:32,531 spiked-urchin INFO: Waiting 9.075633600611502s to send result 11.
+client-16  | 2024-05-27 14:56:32,528 messy-wapiti INFO: Received START command at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,].
+client-16  | 2024-05-27 14:56:32,531 messy-wapiti INFO: Waiting 6.143988982062786s to send result 48.
+client-10  | 2024-05-27 14:56:32,532 complex-emu INFO: Waiting 0.6416118791474379s to send result 83.
+client-7   | 2024-05-27 14:56:33,088 papaya-carp INFO: Sending result 51
+server-1   | 2024-05-27 14:56:33,089 server INFO: Received WURF from papaya-carp with value 51 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,089 server INFO: Reject WURF from papaya-carp because it doe not depend on last start time [67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-29  | 2024-05-27 14:56:33,117 charcoal-markhor INFO: Sending result 5
+server-1   | 2024-05-27 14:56:33,118 server INFO: Received WURF from charcoal-markhor with value 5 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,118 server INFO: Reject WURF from charcoal-markhor because it doe not depend on last start time [67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-10  | 2024-05-27 14:56:33,175 complex-emu INFO: Sending result 83
+server-1   | 2024-05-27 14:56:33,175 server INFO: Received WURF from complex-emu with value 83 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,176 server INFO: Accepted WURF from complex-emu because it depends on last start time [67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-42  | 2024-05-27 14:56:33,360 white-goat INFO: Sending result 99
+server-1   | 2024-05-27 14:56:33,360 server INFO: Received WURF from white-goat with value 99 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,360 server INFO: Reject WURF from white-goat because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-26  | 2024-05-27 14:56:33,374 whimsical-marmot INFO: Sending result 88
+server-1   | 2024-05-27 14:56:33,375 server INFO: Received WURF from whimsical-marmot with value 88 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,375 server INFO: Reject WURF from whimsical-marmot because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-49  | 2024-05-27 14:56:33,414 zircon-ape INFO: Sending result 63
+server-1   | 2024-05-27 14:56:33,415 server INFO: Received WURF from zircon-ape with value 63 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,415 server INFO: Reject WURF from zircon-ape because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-34  | 2024-05-27 14:56:33,636 shapeless-partridge INFO: Sending result 65
+server-1   | 2024-05-27 14:56:33,637 server INFO: Received WURF from shapeless-partridge with value 65 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,637 server INFO: Reject WURF from shapeless-partridge because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-43  | 2024-05-27 14:56:33,652 fast-gibbon INFO: Sending result 52
+server-1   | 2024-05-27 14:56:33,653 server INFO: Received WURF from fast-gibbon with value 52 at [67,0,0,0,0,9,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,653 server INFO: Reject WURF from fast-gibbon because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-41  | 2024-05-27 14:56:33,731 omniscient-fulmar INFO: Sending result 23
+server-1   | 2024-05-27 14:56:33,732 server INFO: Received WURF from omniscient-fulmar with value 23 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,732 server INFO: Reject WURF from omniscient-fulmar because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-45  | 2024-05-27 14:56:33,888 stimulating-beetle INFO: Sending result 97
+server-1   | 2024-05-27 14:56:33,888 server INFO: Received WURF from stimulating-beetle with value 97 at [67,0,0,0,0,0,0,0,0,9,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:33,889 server INFO: Reject WURF from stimulating-beetle because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-14  | 2024-05-27 14:56:34,002 resourceful-degu INFO: Sending result 100
+server-1   | 2024-05-27 14:56:34,003 server INFO: Received WURF from resourceful-degu with value 100 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,]
+server-1   | 2024-05-27 14:56:34,003 server INFO: Reject WURF from resourceful-degu because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-22  | 2024-05-27 14:56:34,004 cuddly-smilodon INFO: Sending result 58
+server-1   | 2024-05-27 14:56:34,004 server INFO: Received WURF from cuddly-smilodon with value 58 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,005 server INFO: Reject WURF from cuddly-smilodon because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-44  | 2024-05-27 14:56:34,242 merciful-ocelot INFO: Sending result 58
+server-1   | 2024-05-27 14:56:34,243 server INFO: Received WURF from merciful-ocelot with value 58 at [63,0,0,9,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,243 server INFO: Reject WURF from merciful-ocelot because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-19  | 2024-05-27 14:56:34,267 tested-turkey INFO: Sending result 65
+server-1   | 2024-05-27 14:56:34,268 server INFO: Received WURF from tested-turkey with value 65 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,9,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,268 server INFO: Reject WURF from tested-turkey because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-23  | 2024-05-27 14:56:34,355 terrestrial-swift INFO: Sending result 63
+server-1   | 2024-05-27 14:56:34,356 server INFO: Received WURF from terrestrial-swift with value 63 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,]
+server-1   | 2024-05-27 14:56:34,356 server INFO: Reject WURF from terrestrial-swift because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-37  | 2024-05-27 14:56:34,447 naughty-kakapo INFO: Sending result 16
+server-1   | 2024-05-27 14:56:34,448 server INFO: Received WURF from naughty-kakapo with value 16 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,448 server INFO: Reject WURF from naughty-kakapo because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-20  | 2024-05-27 14:56:34,579 nifty-hedgehog INFO: Sending result 43
+server-1   | 2024-05-27 14:56:34,580 server INFO: Received WURF from nifty-hedgehog with value 43 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,580 server INFO: Reject WURF from nifty-hedgehog because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:34,604 perfect-worm INFO: Sending result 30
+server-1   | 2024-05-27 14:56:34,605 server INFO: Received WURF from perfect-worm with value 30 at [67,0,0,0,0,0,9,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,605 server INFO: Reject WURF from perfect-worm because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-6   | 2024-05-27 14:56:34,604 perfect-worm INFO: Sending result 30
+client-21  | 2024-05-27 14:56:34,612 rousing-chupacabra INFO: Sending result 41
+server-1   | 2024-05-27 14:56:34,613 server INFO: Received WURF from rousing-chupacabra with value 41 at [63,0,0,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,614 server INFO: Reject WURF from rousing-chupacabra because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-48  | 2024-05-27 14:56:34,639 stimulating-capybara INFO: Sending result 29
+server-1   | 2024-05-27 14:56:34,640 server INFO: Received WURF from stimulating-capybara with value 29 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,640 server INFO: Reject WURF from stimulating-capybara because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-25  | 2024-05-27 14:56:34,993 passionate-tanuki INFO: Sending result 48
+server-1   | 2024-05-27 14:56:34,994 server INFO: Received WURF from passionate-tanuki with value 48 at [63,9,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:34,994 server INFO: Reject WURF from passionate-tanuki because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-31  | 2024-05-27 14:56:35,060 hidden-dogfish INFO: Sending result 18
+server-1   | 2024-05-27 14:56:35,061 server INFO: Received WURF from hidden-dogfish with value 18 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,061 server INFO: Reject WURF from hidden-dogfish because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-4   | 2024-05-27 14:56:35,292 obedient-salmon INFO: Sending result 2
+server-1   | 2024-05-27 14:56:35,293 server INFO: Received WURF from obedient-salmon with value 2 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,293 server INFO: Reject WURF from obedient-salmon because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-28  | 2024-05-27 14:56:35,308 stereotyped-sparrow INFO: Sending result 85
+server-1   | 2024-05-27 14:56:35,308 server INFO: Received WURF from stereotyped-sparrow with value 85 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,309 server INFO: Reject WURF from stereotyped-sparrow because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-47  | 2024-05-27 14:56:35,317 devout-moose INFO: Sending result 94
+server-1   | 2024-05-27 14:56:35,318 server INFO: Received WURF from devout-moose with value 94 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,318 server INFO: Reject WURF from devout-moose because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:35,413 server INFO: Received WURF from brainy-basilisk with value 26 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-46  | 2024-05-27 14:56:35,412 brainy-basilisk INFO: Sending result 26
+server-1   | 2024-05-27 14:56:35,413 server INFO: Reject WURF from brainy-basilisk because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-5   | 2024-05-27 14:56:35,439 dainty-bullmastiff INFO: Sending result 76
+server-1   | 2024-05-27 14:56:35,440 server INFO: Received WURF from dainty-bullmastiff with value 76 at [63,0,0,0,0,0,0,0,0,0,3,0,9,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,440 server INFO: Reject WURF from dainty-bullmastiff because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-9   | 2024-05-27 14:56:35,751 quartz-hornet INFO: Sending result 62
+server-1   | 2024-05-27 14:56:35,752 server INFO: Received WURF from quartz-hornet with value 62 at [63,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,753 server INFO: Reject WURF from quartz-hornet because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-11  | 2024-05-27 14:56:35,912 tireless-tapir INFO: Sending result 69
+server-1   | 2024-05-27 14:56:35,913 server INFO: Received WURF from tireless-tapir with value 69 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:35,913 server INFO: Reject WURF from tireless-tapir because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-1   | 2024-05-27 14:56:36,084 brave-cougar INFO: Sending result 43
+server-1   | 2024-05-27 14:56:36,085 server INFO: Received WURF from brave-cougar with value 43 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:36,085 server INFO: Reject WURF from brave-cougar because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-3   | 2024-05-27 14:56:36,175 impartial-badger INFO: Sending result 68
+server-1   | 2024-05-27 14:56:36,176 server INFO: Received WURF from impartial-badger with value 68 at [63,0,0,0,7,0,0,0,0,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:36,176 server INFO: Reject WURF from impartial-badger because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-18  | 2024-05-27 14:56:36,452 outrageous-polecat INFO: Sending result 31
+server-1   | 2024-05-27 14:56:36,453 server INFO: Received WURF from outrageous-polecat with value 31 at [63,0,0,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:36,453 server INFO: Reject WURF from outrageous-polecat because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:36,557 server INFO: Received WURF from merry-woodlouse with value 100 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,]
+server-1   | 2024-05-27 14:56:36,557 server INFO: Reject WURF from merry-woodlouse because it doe not depend on last start time [68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-24  | 2024-05-27 14:56:36,556 merry-woodlouse INFO: Sending result 100
+server-1   | 2024-05-27 14:56:37,536 server INFO: Sending STOP
+server-1   | 2024-05-27 14:56:37,546 server INFO: Client 'complex-emu' won with the value 83
+client-15  | 2024-05-27 14:56:37,646 hot-sunfish INFO: Sending result 32
+server-1   | 2024-05-27 14:56:37,648 server INFO: Received WURF from hot-sunfish with value 32 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:37,649 server INFO: Reject WURF from hot-sunfish because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-38  | 2024-05-27 14:56:38,114 hissing-scorpion INFO: Sending result 52
+server-1   | 2024-05-27 14:56:38,115 server INFO: Received WURF from hissing-scorpion with value 52 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:38,115 server INFO: Reject WURF from hissing-scorpion because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-33  | 2024-05-27 14:56:38,261 delicate-turtle INFO: Sending result 78
+server-1   | 2024-05-27 14:56:38,262 server INFO: Received WURF from delicate-turtle with value 78 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:38,262 server INFO: Reject WURF from delicate-turtle because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-39  | 2024-05-27 14:56:38,595 shapeless-bumblebee INFO: Sending result 72
+server-1   | 2024-05-27 14:56:38,596 server INFO: Received WURF from shapeless-bumblebee with value 72 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,]
+server-1   | 2024-05-27 14:56:38,597 server INFO: Reject WURF from shapeless-bumblebee because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:38,683 server INFO: Received WURF from messy-wapiti with value 48 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:38,683 server INFO: Reject WURF from messy-wapiti because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-16  | 2024-05-27 14:56:38,682 messy-wapiti INFO: Sending result 48
+client-27  | 2024-05-27 14:56:38,873 rugged-weasel INFO: Sending result 89
+server-1   | 2024-05-27 14:56:38,874 server INFO: Received WURF from rugged-weasel with value 89 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,]
+server-1   | 2024-05-27 14:56:38,874 server INFO: Reject WURF from rugged-weasel because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-50  | 2024-05-27 14:56:39,432 dashing-swan INFO: Sending result 11
+server-1   | 2024-05-27 14:56:39,433 server INFO: Received WURF from dashing-swan with value 11 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:39,433 server INFO: Reject WURF from dashing-swan because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-30  | 2024-05-27 14:56:39,516 resilient-coua INFO: Sending result 15
+server-1   | 2024-05-27 14:56:39,516 server INFO: Received WURF from resilient-coua with value 15 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:39,517 server INFO: Reject WURF from resilient-coua because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-35  | 2024-05-27 14:56:39,677 beneficial-uakari INFO: Sending result 53
+server-1   | 2024-05-27 14:56:39,678 server INFO: Received WURF from beneficial-uakari with value 53 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,9,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:39,678 server INFO: Reject WURF from beneficial-uakari because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:40,161 server INFO: Received WURF from sceptical-cuttlefish with value 97 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:40,161 server INFO: Reject WURF from sceptical-cuttlefish because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-32  | 2024-05-27 14:56:40,159 sceptical-cuttlefish INFO: Sending result 97
+client-36  | 2024-05-27 14:56:40,690 skilled-newt INFO: Sending result 34
+server-1   | 2024-05-27 14:56:40,691 server INFO: Received WURF from skilled-newt with value 34 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:40,691 server INFO: Reject WURF from skilled-newt because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-12  | 2024-05-27 14:56:40,923 winged-starfish INFO: Sending result 4
+server-1   | 2024-05-27 14:56:40,924 server INFO: Received WURF from winged-starfish with value 4 at [67,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:40,924 server INFO: Reject WURF from winged-starfish because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:41,101 server INFO: Received WURF from onyx-earthworm with value 18 at [67,0,9,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-8   | 2024-05-27 14:56:41,099 onyx-earthworm INFO: Sending result 18
+server-1   | 2024-05-27 14:56:41,102 server INFO: Reject WURF from onyx-earthworm because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:41,619 server INFO: Received WURF from spiked-urchin with value 11 at [67,0,0,0,0,0,0,0,0,0,3,0,0,9,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:41,620 server INFO: Reject WURF from spiked-urchin because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-17  | 2024-05-27 14:56:41,618 spiked-urchin INFO: Sending result 11
+client-13  | 2024-05-27 14:56:41,680 sweet-malkoha INFO: Sending result 12
+server-1   | 2024-05-27 14:56:41,681 server INFO: Received WURF from sweet-malkoha with value 12 at [67,0,0,0,0,0,0,11,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:41,682 server INFO: Reject WURF from sweet-malkoha because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+server-1   | 2024-05-27 14:56:41,872 server INFO: Received WURF from enchanted-kittiwake with value 31 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+client-40  | 2024-05-27 14:56:41,871 enchanted-kittiwake INFO: Sending result 31
+server-1   | 2024-05-27 14:56:41,873 server INFO: Reject WURF from enchanted-kittiwake because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+client-2   | 2024-05-27 14:56:42,337 adventurous-goat INFO: Sending result 48
+server-1   | 2024-05-27 14:56:42,338 server INFO: Received WURF from adventurous-goat with value 48 at [67,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,7,5,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,]
+server-1   | 2024-05-27 14:56:42,338 server INFO: Reject WURF from adventurous-goat because it doe not depend on last start time [70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
