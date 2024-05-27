@@ -7,8 +7,8 @@ HOST='server'
 PORT=5050
 
 
-DAUER_DER_RUNDE=5
-
+ROUND_DURATION_IN_SECONDS=5
+ROUND_COUNT=3
 
 connections = set()
 results = dict()
@@ -26,26 +26,46 @@ def main():
         accepting = threading.Thread(target=accept_new_connections, args=(server,))
         accepting.start()
 
-        while True:
+        round=0
+        while round < ROUND_COUNT:
             start_voting()
-            time.sleep(DAUER_DER_RUNDE)
+            time.sleep(ROUND_DURATION_IN_SECONDS)
 
             end_voting()
             
             determine_winner()
             time.sleep(1)
+            
+            round+=1
+        
+        close_connections()
+        server.close()
+        logging.info("End of programm")
 
 
 def accept_new_connections(server:socket.socket):
     while True:
-        (conn, add) = server.accept()
-        threading.Thread(target=incomming_message_handler, args=(conn, )).start()
+        try:
+            (conn, add) = server.accept()
+        except Exception:
+            logging.info(f"Exception in accepting connection")
+            break
+        logging.info(f"Incomming connection from {add}")
+        threading.Thread(target=incomming_message_handler, args=(conn, add, )).start()
         connections.add((conn,add))
+    logging.info("Stop accepting new connections")
 
 
-def incomming_message_handler(conn: socket.socket):
+def incomming_message_handler(conn: socket.socket, add):
     while True:
-        data = conn.recv(1024)
+        try:
+            data = conn.recv(1024)
+            if not data:
+                logging.info(f'received EOF from {add}')
+                break
+        except Exception:
+            logging.info(f'Error in connection {add}')
+            break
         res = data.decode().split(' ')
 
         # INIT [CLIENT]
@@ -81,6 +101,13 @@ def determine_winner():
     else:
         logging.info('No votes received')
     results_lock.release()
+
+def close_connections():
+    global active
+    active=False
+    for (conn, _) in connections:
+        conn.sendall(b"CLOSE")
+        conn.close()
 
 if __name__ == '__main__':
     main()

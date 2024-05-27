@@ -7,7 +7,7 @@ import logging
 HOST='server'
 PORT=5050
 
-SPIELER_LATENZ=10
+PLAYER_LATENCY_IN_SECONDS=10
 
 name = coolname.generate_slug(2)
 
@@ -27,11 +27,14 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client:
         command = data.decode()
         res = command.split(' ')
 
-        if(res[0] == 'START'):
+        if res[0] == 'START':
             logging.info('Received START command')
-            wait = random.random() * SPIELER_LATENZ
+            wait = random.random() * PLAYER_LATENCY_IN_SECONDS
             wurf = random.randint(1, 100)
             logging.info(f'Waiting {wait}s to send result {wurf}')
             time.sleep(wait)
             logging.info(f'Sending result {wurf}')
             client.sendall(f'WURF {name} {wurf}'.encode())
+        if res[0] == 'CLOSE':
+            logging.info("Received CLOSE command")
+            break
