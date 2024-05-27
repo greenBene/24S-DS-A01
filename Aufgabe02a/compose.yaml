@@ -1,0 +1,14 @@
+services:
+  server:
+    build: 
+      context: .
+      dockerfile: server.Dockerfile
+  client:
+    build:
+      context: .
+      dockerfile: client.Dockerfile
+    deploy:
+      mode: recplicated
+      replicas: 3
+    depends_on:
+      - server
