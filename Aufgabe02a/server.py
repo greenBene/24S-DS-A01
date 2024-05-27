@@ -8,7 +8,6 @@ PORT=5050
 
 
 ROUND_DURATION_IN_SECONDS=5
-ROUND_COUNT=3
 
 connections = set()
 results = dict()
@@ -26,8 +25,7 @@ def main():
         accepting = threading.Thread(target=accept_new_connections, args=(server,))
         accepting.start()
 
-        round=0
-        while round < ROUND_COUNT:
+        while True:
             start_voting()
             time.sleep(ROUND_DURATION_IN_SECONDS)
 
@@ -35,12 +33,6 @@ def main():
             
             determine_winner()
             time.sleep(1)
-            
-            round+=1
-        
-        close_connections()
-        server.close()
-        logging.info("End of programm")
 
 
 def accept_new_connections(server:socket.socket):
@@ -101,13 +93,6 @@ def determine_winner():
     else:
         logging.info('No votes received')
     results_lock.release()
-
-def close_connections():
-    global active
-    active=False
-    for (conn, _) in connections:
-        conn.sendall(b"CLOSE")
-        conn.close()
 
 if __name__ == '__main__':
     main()
