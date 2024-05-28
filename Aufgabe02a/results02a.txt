@@ -1,0 +1,53 @@
+server-1  | 2024-05-28 07:53:40,579 server INFO: Sending START (0 clients)
+server-1  | 2024-05-28 07:53:40,721 server INFO: Incomming connection from ('172.20.0.3', 36628)
+server-1  | 2024-05-28 07:53:40,722 server INFO: INIT message from quirky-raven
+server-1  | 2024-05-28 07:53:40,863 server INFO: Incomming connection from ('172.20.0.4', 35342)
+server-1  | 2024-05-28 07:53:40,864 server INFO: INIT message from astute-anaconda
+server-1  | 2024-05-28 07:53:41,011 server INFO: Incomming connection from ('172.20.0.5', 47374)
+server-1  | 2024-05-28 07:53:41,015 server INFO: INIT message from imported-ibis
+server-1  | 2024-05-28 07:53:45,586 server INFO: Sending STOP
+server-1  | 2024-05-28 07:53:45,587 server INFO: No votes received
+server-1  | 2024-05-28 07:53:46,589 server INFO: Sending START (3 clients)
+client-1  | 2024-05-28 07:53:46,590 imported-ibis INFO: Received START command
+client-1  | 2024-05-28 07:53:46,590 imported-ibis INFO: Waiting 3.5795224498713774s to send result 20
+client-2  | 2024-05-28 07:53:46,590 astute-anaconda INFO: Received START command
+client-2  | 2024-05-28 07:53:46,591 astute-anaconda INFO: Waiting 1.9606193089553692s to send result 4
+client-3  | 2024-05-28 07:53:46,590 quirky-raven INFO: Received START command
+client-3  | 2024-05-28 07:53:46,591 quirky-raven INFO: Waiting 2.3494633761776127s to send result 96
+client-2  | 2024-05-28 07:53:48,554 astute-anaconda INFO: Sending result 4
+server-1  | 2024-05-28 07:53:48,556 server INFO: Received WURF from astute-anaconda with value 4
+client-3  | 2024-05-28 07:53:48,944 quirky-raven INFO: Sending result 96
+server-1  | 2024-05-28 07:53:48,946 server INFO: Received WURF from quirky-raven with value 96
+client-1  | 2024-05-28 07:53:50,175 imported-ibis INFO: Sending result 20
+server-1  | 2024-05-28 07:53:50,176 server INFO: Received WURF from imported-ibis with value 20
+server-1  | 2024-05-28 07:53:51,596 server INFO: Sending STOP
+server-1  | 2024-05-28 07:53:51,596 server INFO: Client 'quirky-raven' won with the value 96
+server-1  | 2024-05-28 07:53:52,599 server INFO: Sending START (3 clients)
+client-1  | 2024-05-28 07:53:52,599 imported-ibis INFO: Received START command
+client-3  | 2024-05-28 07:53:52,599 quirky-raven INFO: Received START command
+client-3  | 2024-05-28 07:53:52,599 quirky-raven INFO: Waiting 4.256916773799663s to send result 49
+client-2  | 2024-05-28 07:53:52,599 astute-anaconda INFO: Received START command
+client-2  | 2024-05-28 07:53:52,599 astute-anaconda INFO: Waiting 6.052399471709329s to send result 77
+client-1  | 2024-05-28 07:53:52,599 imported-ibis INFO: Waiting 5.8408684216069435s to send result 11
+client-3  | 2024-05-28 07:53:56,862 quirky-raven INFO: Sending result 49
+server-1  | 2024-05-28 07:53:56,864 server INFO: Received WURF from quirky-raven with value 49
+server-1  | 2024-05-28 07:53:57,606 server INFO: Sending STOP
+server-1  | 2024-05-28 07:53:57,606 server INFO: Client 'quirky-raven' won with the value 49
+client-1  | 2024-05-28 07:53:58,448 imported-ibis INFO: Sending result 11
+server-1  | 2024-05-28 07:53:58,449 server INFO: Received WURF from imported-ibis with value 11
+server-1  | 2024-05-28 07:53:58,608 server INFO: Sending START (3 clients)
+client-3  | 2024-05-28 07:53:58,609 quirky-raven INFO: Received START command
+client-3  | 2024-05-28 07:53:58,610 quirky-raven INFO: Waiting 9.08896420266427s to send result 93
+client-1  | 2024-05-28 07:53:58,609 imported-ibis INFO: Received START command
+client-1  | 2024-05-28 07:53:58,610 imported-ibis INFO: Waiting 1.323018598894693s to send result 11
+server-1  | 2024-05-28 07:53:58,659 server INFO: Received WURF from astute-anaconda with value 77
+client-2  | 2024-05-28 07:53:58,659 astute-anaconda INFO: Sending result 77
+client-1  | 2024-05-28 07:53:59,935 imported-ibis INFO: Sending result 11
+server-1  | 2024-05-28 07:53:59,936 server INFO: Received WURF from imported-ibis with value 11
+server-1  | 2024-05-28 07:54:03,615 server INFO: Sending STOP
+server-1  | 2024-05-28 07:54:03,617 server INFO: Client 'astute-anaconda' won with the value 77
+server-1  | 2024-05-28 07:54:04,619 server INFO: Sending START (3 clients)
+client-2  | 2024-05-28 07:54:04,619 astute-anaconda INFO: Received START command
+client-1  | 2024-05-28 07:54:04,619 imported-ibis INFO: Received START command
+client-2  | 2024-05-28 07:54:04,620 astute-anaconda INFO: Waiting 8.636386762521017s to send result 70
+client-1  | 2024-05-28 07:54:04,620 imported-ibis INFO: Waiting 9.477783601881002s to send result 64
